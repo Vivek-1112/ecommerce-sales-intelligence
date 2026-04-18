@@ -1,0 +1,2456 @@
+customer_id,customer_state,customer_city
+CUST02454,SP,Porto Alegre
+CUST02128,SC,Curitiba
+CUST00548,RJ,Porto Alegre
+CUST02775,RJ,Rio de Janeiro
+CUST02374,RJ,Porto Alegre
+CUST00254,SP,Porto Alegre
+CUST02693,RS,Porto Alegre
+CUST02116,SP,Curitiba
+CUST02440,PR,Belo Horizonte
+CUST02373,SP,Porto Alegre
+CUST01786,SP,Porto Alegre
+CUST01720,ES,Belo Horizonte
+CUST01404,SP,Porto Alegre
+CUST01131,BA,Curitiba
+CUST00336,ES,São Paulo
+CUST02084,SP,Curitiba
+CUST01877,SP,Curitiba
+CUST01858,RS,Rio de Janeiro
+CUST02794,GO,Belo Horizonte
+CUST01543,RJ,Curitiba
+CUST00069,RJ,Curitiba
+CUST02393,SP,São Paulo
+CUST02213,MG,São Paulo
+CUST01904,SP,Porto Alegre
+CUST01556,MG,Rio de Janeiro
+CUST00933,SP,Curitiba
+CUST01837,ES,Curitiba
+CUST01038,RJ,Rio de Janeiro
+CUST01342,ES,Belo Horizonte
+CUST02896,RJ,Curitiba
+CUST01866,SP,Porto Alegre
+CUST01284,SP,São Paulo
+CUST01530,PR,Porto Alegre
+CUST01423,RJ,Belo Horizonte
+CUST01593,MG,Curitiba
+CUST01211,GO,Belo Horizonte
+CUST01948,RS,Belo Horizonte
+CUST01743,SP,Porto Alegre
+CUST02154,SP,Belo Horizonte
+CUST02718,SC,Rio de Janeiro
+CUST02977,SP,Rio de Janeiro
+CUST00500,SP,Porto Alegre
+CUST00618,SP,Curitiba
+CUST00087,RJ,Belo Horizonte
+CUST01346,PE,Rio de Janeiro
+CUST02991,SP,Belo Horizonte
+CUST00976,SP,Curitiba
+CUST00159,RJ,Belo Horizonte
+CUST01688,SP,São Paulo
+CUST01978,ES,Rio de Janeiro
+CUST00307,MG,Curitiba
+CUST00907,SP,Rio de Janeiro
+CUST01225,MG,Belo Horizonte
+CUST00248,RJ,Curitiba
+CUST01601,BA,Belo Horizonte
+CUST02658,SP,Belo Horizonte
+CUST02650,SP,Curitiba
+CUST01636,PR,Belo Horizonte
+CUST01360,SP,Rio de Janeiro
+CUST02409,RS,Belo Horizonte
+CUST00657,MG,Belo Horizonte
+CUST02661,SC,Belo Horizonte
+CUST00360,RS,Curitiba
+CUST01366,MG,Porto Alegre
+CUST01761,RS,Porto Alegre
+CUST01574,GO,São Paulo
+CUST02543,SP,São Paulo
+CUST00427,SP,São Paulo
+CUST02644,SP,Rio de Janeiro
+CUST01892,SP,Rio de Janeiro
+CUST02959,SP,Rio de Janeiro
+CUST02048,SP,Rio de Janeiro
+CUST01875,SP,Porto Alegre
+CUST01009,SP,Porto Alegre
+CUST01652,RS,São Paulo
+CUST02604,SP,Belo Horizonte
+CUST02299,SP,Belo Horizonte
+CUST01920,SC,Curitiba
+CUST02708,ES,Curitiba
+CUST02865,BA,Belo Horizonte
+CUST01083,RJ,Rio de Janeiro
+CUST02758,ES,Porto Alegre
+CUST02858,SP,Belo Horizonte
+CUST01497,MG,Belo Horizonte
+CUST02713,RJ,São Paulo
+CUST02234,RJ,Rio de Janeiro
+CUST02009,MG,Porto Alegre
+CUST02221,SP,Porto Alegre
+CUST02432,SC,Rio de Janeiro
+CUST01397,SP,Curitiba
+CUST01035,SC,Belo Horizonte
+CUST00540,SP,Porto Alegre
+CUST00828,BA,Curitiba
+CUST01859,SC,Belo Horizonte
+CUST01183,SP,Porto Alegre
+CUST00379,MG,Curitiba
+CUST02719,RS,Porto Alegre
+CUST01158,MG,Belo Horizonte
+CUST00075,RJ,Belo Horizonte
+CUST02907,RS,Curitiba
+CUST01003,SP,São Paulo
+CUST02399,GO,São Paulo
+CUST00085,RJ,Curitiba
+CUST01704,SP,Curitiba
+CUST00426,SP,Belo Horizonte
+CUST01279,SP,Curitiba
+CUST02950,SP,São Paulo
+CUST00301,GO,Rio de Janeiro
+CUST02427,SC,Curitiba
+CUST00324,RJ,São Paulo
+CUST02917,SP,São Paulo
+CUST01603,SP,Rio de Janeiro
+CUST01152,SP,Rio de Janeiro
+CUST00182,SC,Porto Alegre
+CUST01635,PR,São Paulo
+CUST02127,BA,Curitiba
+CUST01356,PR,Porto Alegre
+CUST00130,SP,Porto Alegre
+CUST02643,RS,Belo Horizonte
+CUST00783,SP,Belo Horizonte
+CUST00260,PE,Rio de Janeiro
+CUST01812,SP,Rio de Janeiro
+CUST02836,RJ,Curitiba
+CUST02233,SP,Rio de Janeiro
+CUST01005,MG,Rio de Janeiro
+CUST00152,RJ,Curitiba
+CUST02057,MG,Curitiba
+CUST02721,RJ,Belo Horizonte
+CUST01335,SP,Rio de Janeiro
+CUST00052,SC,Porto Alegre
+CUST02335,MG,Porto Alegre
+CUST00522,ES,Porto Alegre
+CUST01468,SP,Rio de Janeiro
+CUST02463,RJ,Curitiba
+CUST01813,PR,Porto Alegre
+CUST00827,SP,Belo Horizonte
+CUST01563,RS,Rio de Janeiro
+CUST02624,GO,Rio de Janeiro
+CUST00343,MG,Rio de Janeiro
+CUST01903,SC,São Paulo
+CUST02371,BA,Porto Alegre
+CUST02080,SC,Curitiba
+CUST02083,BA,São Paulo
+CUST01926,RJ,Belo Horizonte
+CUST02951,RJ,Rio de Janeiro
+CUST01986,GO,Rio de Janeiro
+CUST02000,SP,São Paulo
+CUST00318,RS,Belo Horizonte
+CUST01700,RJ,Belo Horizonte
+CUST02850,SP,Porto Alegre
+CUST02671,RJ,São Paulo
+CUST02425,SC,Porto Alegre
+CUST02370,MG,Porto Alegre
+CUST01757,SP,São Paulo
+CUST02486,SC,Rio de Janeiro
+CUST02669,BA,Rio de Janeiro
+CUST02298,RJ,Belo Horizonte
+CUST00116,RJ,Belo Horizonte
+CUST01900,SP,São Paulo
+CUST01742,SP,Porto Alegre
+CUST02898,SP,Belo Horizonte
+CUST01268,SC,Rio de Janeiro
+CUST00208,SP,Curitiba
+CUST01395,SP,São Paulo
+CUST01668,SC,Curitiba
+CUST00249,SP,Curitiba
+CUST01363,RS,Curitiba
+CUST00889,SP,São Paulo
+CUST00561,SP,Belo Horizonte
+CUST00580,GO,Belo Horizonte
+CUST02735,SP,Porto Alegre
+CUST02484,ES,São Paulo
+CUST02955,RJ,Porto Alegre
+CUST01051,SC,Porto Alegre
+CUST02496,RJ,Belo Horizonte
+CUST01929,SC,Curitiba
+CUST01791,MG,Rio de Janeiro
+CUST02030,MG,São Paulo
+CUST01218,ES,Curitiba
+CUST00745,PR,Porto Alegre
+CUST01769,PE,Curitiba
+CUST01909,SP,Curitiba
+CUST01323,RS,São Paulo
+CUST01104,MG,Rio de Janeiro
+CUST01583,RJ,São Paulo
+CUST00963,BA,Belo Horizonte
+CUST00309,ES,Curitiba
+CUST01159,SP,Curitiba
+CUST01504,GO,Belo Horizonte
+CUST02223,BA,Rio de Janeiro
+CUST00034,BA,Belo Horizonte
+CUST01512,ES,Porto Alegre
+CUST01000,SC,Porto Alegre
+CUST00530,PR,Rio de Janeiro
+CUST00627,SP,Rio de Janeiro
+CUST02018,SP,São Paulo
+CUST01305,RS,Curitiba
+CUST00123,RS,Belo Horizonte
+CUST01462,SP,São Paulo
+CUST00373,RJ,São Paulo
+CUST00689,SP,São Paulo
+CUST01944,PR,Porto Alegre
+CUST00086,SP,Belo Horizonte
+CUST00829,SC,São Paulo
+CUST01496,SP,Curitiba
+CUST02533,RJ,Belo Horizonte
+CUST01498,MG,São Paulo
+CUST00519,SC,Porto Alegre
+CUST01114,MG,Rio de Janeiro
+CUST00129,RS,São Paulo
+CUST01321,SP,Porto Alegre
+CUST01273,SP,Rio de Janeiro
+CUST02187,SP,Porto Alegre
+CUST01351,SP,Belo Horizonte
+CUST00237,MG,Belo Horizonte
+CUST01233,SP,Belo Horizonte
+CUST02101,SP,Rio de Janeiro
+CUST02505,RS,Belo Horizonte
+CUST02145,SP,São Paulo
+CUST01499,RJ,Belo Horizonte
+CUST02662,RJ,São Paulo
+CUST01517,RS,Porto Alegre
+CUST01016,RJ,Porto Alegre
+CUST01702,BA,Curitiba
+CUST02667,SP,Belo Horizonte
+CUST01452,RJ,São Paulo
+CUST01432,SP,Curitiba
+CUST00585,SC,Belo Horizonte
+CUST00979,GO,Rio de Janeiro
+CUST00283,MG,Curitiba
+CUST00790,SP,Belo Horizonte
+CUST01057,SP,Curitiba
+CUST01110,MG,São Paulo
+CUST02352,SP,Porto Alegre
+CUST01197,SP,Porto Alegre
+CUST01163,SP,São Paulo
+CUST01280,RJ,São Paulo
+CUST02926,RS,Porto Alegre
+CUST01389,SP,Porto Alegre
+CUST01521,MG,Porto Alegre
+CUST00271,SP,Curitiba
+CUST00925,SP,Porto Alegre
+CUST01133,RJ,São Paulo
+CUST02412,SP,Porto Alegre
+CUST01954,RS,Belo Horizonte
+CUST02168,GO,Rio de Janeiro
+CUST01546,BA,Curitiba
+CUST02843,SP,São Paulo
+CUST00286,BA,São Paulo
+CUST01267,PR,São Paulo
+CUST02413,SC,São Paulo
+CUST02400,SP,Belo Horizonte
+CUST00685,PE,Belo Horizonte
+CUST00894,PE,São Paulo
+CUST02512,BA,Belo Horizonte
+CUST01818,ES,Rio de Janeiro
+CUST02706,MG,Rio de Janeiro
+CUST01965,RJ,Curitiba
+CUST01410,SP,Porto Alegre
+CUST02292,GO,São Paulo
+CUST00202,RJ,São Paulo
+CUST01827,BA,Rio de Janeiro
+CUST01502,RS,Curitiba
+CUST00805,MG,Porto Alegre
+CUST00801,SC,São Paulo
+CUST02532,GO,Rio de Janeiro
+CUST00367,SP,Curitiba
+CUST00349,SP,Curitiba
+CUST02305,RJ,Porto Alegre
+CUST02218,SP,Porto Alegre
+CUST02762,PR,Rio de Janeiro
+CUST01524,RS,Rio de Janeiro
+CUST00243,SC,Curitiba
+CUST00299,SP,Rio de Janeiro
+CUST00441,SP,São Paulo
+CUST01611,BA,Porto Alegre
+CUST00932,SP,Porto Alegre
+CUST02700,SP,Rio de Janeiro
+CUST02487,SP,Curitiba
+CUST00994,SC,Porto Alegre
+CUST01712,SP,Curitiba
+CUST02343,SP,Curitiba
+CUST02307,MG,Belo Horizonte
+CUST02754,RJ,Rio de Janeiro
+CUST02324,SP,Rio de Janeiro
+CUST01260,RJ,Porto Alegre
+CUST00704,RJ,Rio de Janeiro
+CUST01792,MG,Porto Alegre
+CUST02106,SP,Porto Alegre
+CUST00952,MG,Rio de Janeiro
+CUST01532,SP,Porto Alegre
+CUST01252,MG,São Paulo
+CUST02753,SP,Curitiba
+CUST02094,RS,São Paulo
+CUST01029,MG,Belo Horizonte
+CUST00609,SC,Porto Alegre
+CUST00003,ES,Porto Alegre
+CUST01628,RJ,São Paulo
+CUST01475,SP,Belo Horizonte
+CUST00128,SP,Rio de Janeiro
+CUST00563,RJ,São Paulo
+CUST02636,SP,São Paulo
+CUST01451,SP,São Paulo
+CUST01600,SP,Curitiba
+CUST01779,BA,Rio de Janeiro
+CUST00818,SP,São Paulo
+CUST00964,SP,Belo Horizonte
+CUST01806,PR,Porto Alegre
+CUST01878,RS,Rio de Janeiro
+CUST01516,PE,Curitiba
+CUST00869,ES,Porto Alegre
+CUST00622,MG,Porto Alegre
+CUST00038,RJ,Porto Alegre
+CUST00440,MG,Rio de Janeiro
+CUST01147,PR,Belo Horizonte
+CUST01719,ES,Rio de Janeiro
+CUST00443,SP,Belo Horizonte
+CUST00181,ES,Belo Horizonte
+CUST00792,GO,Porto Alegre
+CUST00006,SC,Belo Horizonte
+CUST02041,SP,Rio de Janeiro
+CUST02672,RJ,Belo Horizonte
+CUST01678,SP,Porto Alegre
+CUST02969,RJ,Belo Horizonte
+CUST01176,SP,Rio de Janeiro
+CUST00169,ES,Belo Horizonte
+CUST00507,RJ,Curitiba
+CUST01803,MG,Curitiba
+CUST01509,SP,Curitiba
+CUST01511,GO,Belo Horizonte
+CUST01045,SP,Belo Horizonte
+CUST00369,SP,Belo Horizonte
+CUST02930,PR,Belo Horizonte
+CUST01393,SP,Belo Horizonte
+CUST01634,RJ,Curitiba
+CUST00646,PR,São Paulo
+CUST01553,RS,Rio de Janeiro
+CUST02777,SP,Belo Horizonte
+CUST02686,PE,Porto Alegre
+CUST00338,SC,Curitiba
+CUST02842,SP,São Paulo
+CUST01069,SP,Rio de Janeiro
+CUST00589,SP,Porto Alegre
+CUST01441,PR,Porto Alegre
+CUST01943,SP,Rio de Janeiro
+CUST02148,SP,Curitiba
+CUST00822,RS,Rio de Janeiro
+CUST02736,SC,Porto Alegre
+CUST00093,RJ,Belo Horizonte
+CUST00395,RS,São Paulo
+CUST00653,RJ,Belo Horizonte
+CUST02985,RJ,São Paulo
+CUST01824,MG,Rio de Janeiro
+CUST00464,SP,Rio de Janeiro
+CUST00701,RJ,Porto Alegre
+CUST00756,MG,São Paulo
+CUST02519,ES,Curitiba
+CUST00211,SP,Belo Horizonte
+CUST01811,RJ,São Paulo
+CUST00645,MG,Porto Alegre
+CUST02472,PR,Rio de Janeiro
+CUST00858,RS,Porto Alegre
+CUST01746,SP,Rio de Janeiro
+CUST01434,RS,São Paulo
+CUST01653,SP,Curitiba
+CUST02245,SP,Belo Horizonte
+CUST00958,SP,Belo Horizonte
+CUST01055,SP,Curitiba
+CUST02470,PR,Rio de Janeiro
+CUST02997,SC,Rio de Janeiro
+CUST02103,SP,Curitiba
+CUST01998,SP,Rio de Janeiro
+CUST00576,SP,São Paulo
+CUST01240,RJ,Rio de Janeiro
+CUST02933,RJ,Rio de Janeiro
+CUST00989,RJ,São Paulo
+CUST00516,MG,São Paulo
+CUST01950,SP,Curitiba
+CUST00617,SP,Porto Alegre
+CUST01002,BA,Belo Horizonte
+CUST00644,PR,Rio de Janeiro
+CUST00450,SP,Belo Horizonte
+CUST00095,SP,Rio de Janeiro
+CUST00671,SP,Curitiba
+CUST02806,SP,Curitiba
+CUST00624,MG,Belo Horizonte
+CUST00917,SP,Porto Alegre
+CUST00867,SP,Porto Alegre
+CUST01749,BA,Porto Alegre
+CUST00439,RJ,Curitiba
+CUST01113,RJ,Porto Alegre
+CUST02732,SP,Rio de Janeiro
+CUST00346,RJ,São Paulo
+CUST01039,SP,Curitiba
+CUST02011,RS,Belo Horizonte
+CUST01102,SP,Belo Horizonte
+CUST02912,PE,São Paulo
+CUST02124,RS,Belo Horizonte
+CUST00351,RJ,Rio de Janeiro
+CUST01247,BA,São Paulo
+CUST01506,SP,São Paulo
+CUST00390,SP,Curitiba
+CUST00727,GO,Curitiba
+CUST00583,RJ,Curitiba
+CUST00276,RJ,Belo Horizonte
+CUST01956,SP,Belo Horizonte
+CUST01527,RS,Rio de Janeiro
+CUST01733,SP,Belo Horizonte
+CUST02544,SP,Curitiba
+CUST01465,SC,Porto Alegre
+CUST00102,RS,São Paulo
+CUST01127,RJ,Curitiba
+CUST02528,RJ,São Paulo
+CUST00493,RJ,Porto Alegre
+CUST01919,SP,Curitiba
+CUST01596,SC,Belo Horizonte
+CUST02076,SP,Belo Horizonte
+CUST01895,PR,São Paulo
+CUST02469,RS,Porto Alegre
+CUST01354,RJ,Belo Horizonte
+CUST00455,BA,Curitiba
+CUST00071,MG,Curitiba
+CUST02200,BA,São Paulo
+CUST00368,PR,Porto Alegre
+CUST00263,SP,Curitiba
+CUST00303,RS,São Paulo
+CUST00475,PR,São Paulo
+CUST01209,SP,São Paulo
+CUST02133,PR,Belo Horizonte
+CUST00473,SP,Rio de Janeiro
+CUST00030,SP,Curitiba
+CUST00344,RS,Belo Horizonte
+CUST02810,RS,Curitiba
+CUST00061,SP,São Paulo
+CUST00261,MG,Curitiba
+CUST02477,RJ,Rio de Janeiro
+CUST01466,SP,São Paulo
+CUST00327,MG,Curitiba
+CUST00900,SP,Rio de Janeiro
+CUST02884,PE,Belo Horizonte
+CUST00514,GO,São Paulo
+CUST02273,SP,Rio de Janeiro
+CUST01303,SP,Belo Horizonte
+CUST01130,RJ,São Paulo
+CUST00824,RS,Belo Horizonte
+CUST00510,MG,Curitiba
+CUST02567,MG,Curitiba
+CUST01186,SP,São Paulo
+CUST02591,PR,Rio de Janeiro
+CUST00852,RJ,São Paulo
+CUST01311,RJ,Curitiba
+CUST00410,RS,Porto Alegre
+CUST00660,SP,Curitiba
+CUST01698,PE,Porto Alegre
+CUST02928,MG,Belo Horizonte
+CUST02598,PR,Rio de Janeiro
+CUST00626,SP,Curitiba
+CUST00883,RJ,Curitiba
+CUST00437,GO,Curitiba
+CUST00949,BA,Porto Alegre
+CUST01472,BA,São Paulo
+CUST01307,SP,Curitiba
+CUST01691,RS,Belo Horizonte
+CUST00490,PR,Porto Alegre
+CUST01327,SP,São Paulo
+CUST02259,PR,Curitiba
+CUST01269,SP,Curitiba
+CUST01832,ES,Porto Alegre
+CUST00407,SP,Curitiba
+CUST02497,MG,Belo Horizonte
+CUST01377,PR,Belo Horizonte
+CUST02923,SP,Belo Horizonte
+CUST01022,ES,São Paulo
+CUST01844,SP,Rio de Janeiro
+CUST00392,MG,Curitiba
+CUST02441,SP,Curitiba
+CUST02385,SP,Rio de Janeiro
+CUST02582,SP,São Paulo
+CUST00788,RJ,Belo Horizonte
+CUST02925,RJ,São Paulo
+CUST02035,RJ,Rio de Janeiro
+CUST02779,SP,São Paulo
+CUST02281,GO,Belo Horizonte
+CUST01569,MG,Rio de Janeiro
+CUST00359,BA,São Paulo
+CUST00032,SP,Belo Horizonte
+CUST02711,PR,Rio de Janeiro
+CUST01300,MG,Porto Alegre
+CUST02077,MG,Belo Horizonte
+CUST02366,RJ,Porto Alegre
+CUST02859,RJ,Porto Alegre
+CUST01004,SP,Porto Alegre
+CUST00651,RJ,Rio de Janeiro
+CUST01231,MG,Rio de Janeiro
+CUST01430,SP,São Paulo
+CUST00111,BA,Belo Horizonte
+CUST00546,SP,Belo Horizonte
+CUST00737,SP,Belo Horizonte
+CUST01780,RS,Porto Alegre
+CUST01272,SP,Rio de Janeiro
+CUST01608,PR,Belo Horizonte
+CUST00049,SP,Porto Alegre
+CUST02944,SP,Rio de Janeiro
+CUST01251,RJ,Rio de Janeiro
+CUST01440,RJ,Belo Horizonte
+CUST01043,RJ,Curitiba
+CUST00631,SP,Belo Horizonte
+CUST01435,SP,Porto Alegre
+CUST00746,SP,Curitiba
+CUST00282,RJ,Rio de Janeiro
+CUST02444,MG,Belo Horizonte
+CUST01381,SP,Belo Horizonte
+CUST02309,BA,Belo Horizonte
+CUST01193,PR,Porto Alegre
+CUST00142,PR,Rio de Janeiro
+CUST00411,MG,Curitiba
+CUST00404,SP,Curitiba
+CUST01309,SP,Rio de Janeiro
+CUST00354,RS,Porto Alegre
+CUST01074,RS,São Paulo
+CUST02703,SC,Rio de Janeiro
+CUST00892,RS,Curitiba
+CUST01789,SP,Porto Alegre
+CUST00151,RS,Porto Alegre
+CUST00910,MG,Curitiba
+CUST00879,SP,Porto Alegre
+CUST01972,RS,Porto Alegre
+CUST01226,BA,Belo Horizonte
+CUST01248,SP,Porto Alegre
+CUST01881,RS,Belo Horizonte
+CUST01641,RJ,São Paulo
+CUST01374,RS,Rio de Janeiro
+CUST01960,MG,São Paulo
+CUST02384,BA,Rio de Janeiro
+CUST00951,RS,São Paulo
+CUST00714,MG,Belo Horizonte
+CUST01684,SP,Belo Horizonte
+CUST02954,SP,Belo Horizonte
+CUST00339,RS,Porto Alegre
+CUST01439,MG,São Paulo
+CUST02949,SC,Belo Horizonte
+CUST00083,SP,Curitiba
+CUST00037,SP,Curitiba
+CUST00174,PE,Belo Horizonte
+CUST00675,SP,Rio de Janeiro
+CUST01762,SP,Rio de Janeiro
+CUST01241,RJ,Belo Horizonte
+CUST02419,PR,Belo Horizonte
+CUST01275,SP,Belo Horizonte
+CUST03000,RS,Rio de Janeiro
+CUST01192,BA,Curitiba
+CUST00477,SP,Curitiba
+CUST02776,PR,Belo Horizonte
+CUST00831,SP,Rio de Janeiro
+CUST01293,SP,Belo Horizonte
+CUST00511,RJ,Belo Horizonte
+CUST00763,SP,São Paulo
+CUST01538,RJ,Belo Horizonte
+CUST02815,RJ,São Paulo
+CUST02289,RJ,Rio de Janeiro
+CUST02945,SP,Belo Horizonte
+CUST00277,RS,Belo Horizonte
+CUST01088,SC,São Paulo
+CUST01631,SP,Curitiba
+CUST00391,SC,Belo Horizonte
+CUST01372,SP,Porto Alegre
+CUST02781,SC,Belo Horizonte
+CUST01921,SP,Belo Horizonte
+CUST01508,SP,São Paulo
+CUST01278,SP,São Paulo
+CUST01798,SP,Rio de Janeiro
+CUST02120,MG,Curitiba
+CUST02688,RJ,Porto Alegre
+CUST02125,SP,Rio de Janeiro
+CUST01487,SP,São Paulo
+CUST00972,GO,Belo Horizonte
+CUST02630,SP,São Paulo
+CUST01050,BA,Porto Alegre
+CUST01545,MG,Curitiba
+CUST02918,BA,Rio de Janeiro
+CUST01672,SP,Curitiba
+CUST00582,PR,Porto Alegre
+CUST00058,SP,Belo Horizonte
+CUST02339,RS,São Paulo
+CUST00470,MG,Curitiba
+CUST01718,SP,Curitiba
+CUST01874,SC,Belo Horizonte
+CUST02436,PE,São Paulo
+CUST01559,SP,Rio de Janeiro
+CUST01604,RS,Rio de Janeiro
+CUST02180,RJ,Belo Horizonte
+CUST02091,PR,São Paulo
+CUST00206,SC,Porto Alegre
+CUST00512,SP,Curitiba
+CUST00483,SP,Belo Horizonte
+CUST01650,SC,São Paulo
+CUST02064,GO,Belo Horizonte
+CUST02037,SP,São Paulo
+CUST01306,SP,São Paulo
+CUST01212,GO,Porto Alegre
+CUST00981,SP,Porto Alegre
+CUST00668,SP,São Paulo
+CUST01588,SP,Porto Alegre
+CUST00575,RJ,Rio de Janeiro
+CUST00599,SC,Curitiba
+CUST02869,PR,Rio de Janeiro
+CUST01345,PR,São Paulo
+CUST01589,SP,Porto Alegre
+CUST01063,SP,Porto Alegre
+CUST02086,SP,São Paulo
+CUST00187,GO,São Paulo
+CUST00312,SC,Curitiba
+CUST01782,MG,Porto Alegre
+CUST01518,RS,Porto Alegre
+CUST00625,BA,Belo Horizonte
+CUST02203,SP,São Paulo
+CUST01819,RJ,Curitiba
+CUST02647,PR,Belo Horizonte
+CUST01927,SP,Curitiba
+CUST00821,SP,Porto Alegre
+CUST01160,RS,São Paulo
+CUST00007,RJ,Belo Horizonte
+CUST01476,MG,Belo Horizonte
+CUST02691,SP,São Paulo
+CUST01930,SP,Porto Alegre
+CUST01829,RJ,Rio de Janeiro
+CUST01089,RJ,Belo Horizonte
+CUST02099,SP,Rio de Janeiro
+CUST01735,MG,Rio de Janeiro
+CUST00040,SC,Belo Horizonte
+CUST02851,SC,Curitiba
+CUST01210,SP,Rio de Janeiro
+CUST00292,RS,Porto Alegre
+CUST01534,PR,Belo Horizonte
+CUST02424,ES,Curitiba
+CUST02523,SP,São Paulo
+CUST02627,RS,São Paulo
+CUST00153,SP,Porto Alegre
+CUST01591,MG,Rio de Janeiro
+CUST00968,MG,Belo Horizonte
+CUST00472,MG,São Paulo
+CUST01547,RS,Belo Horizonte
+CUST00137,RS,Belo Horizonte
+CUST02798,SP,Porto Alegre
+CUST01889,PR,Curitiba
+CUST02678,SP,Belo Horizonte
+CUST02406,BA,São Paulo
+CUST01027,GO,Belo Horizonte
+CUST00690,SP,Porto Alegre
+CUST01477,RS,Porto Alegre
+CUST02069,SP,Curitiba
+CUST00305,MG,Curitiba
+CUST02849,PR,São Paulo
+CUST02809,MG,São Paulo
+CUST00048,SP,Porto Alegre
+CUST01974,MG,Porto Alegre
+CUST02510,SP,Belo Horizonte
+CUST01905,BA,Rio de Janeiro
+CUST01585,RJ,Rio de Janeiro
+CUST00164,PE,Rio de Janeiro
+CUST00817,SP,Rio de Janeiro
+CUST01724,SP,Curitiba
+CUST00936,SP,São Paulo
+CUST02541,RS,São Paulo
+CUST02391,SP,Belo Horizonte
+CUST01520,PE,Rio de Janeiro
+CUST01413,SP,São Paulo
+CUST02282,SP,Porto Alegre
+CUST00926,SP,São Paulo
+CUST02553,RJ,Belo Horizonte
+CUST02458,RJ,Curitiba
+CUST00797,PR,Curitiba
+CUST00315,ES,Belo Horizonte
+CUST02552,RS,Rio de Janeiro
+CUST02143,MG,Curitiba
+CUST02254,BA,São Paulo
+CUST00544,SC,Curitiba
+CUST00134,RJ,São Paulo
+CUST01492,SP,Porto Alegre
+CUST01124,PR,Rio de Janeiro
+CUST01894,SP,Curitiba
+CUST00065,BA,Belo Horizonte
+CUST00186,PR,São Paulo
+CUST00231,BA,São Paulo
+CUST00741,RS,São Paulo
+CUST02215,RJ,São Paulo
+CUST01935,MG,Rio de Janeiro
+CUST01725,RS,Rio de Janeiro
+CUST02853,SP,São Paulo
+CUST02044,RJ,Belo Horizonte
+CUST01594,GO,Curitiba
+CUST02983,RJ,São Paulo
+CUST02929,MG,Porto Alegre
+CUST00988,SP,São Paulo
+CUST00978,SC,Belo Horizonte
+CUST00611,SP,Curitiba
+CUST00721,PR,Belo Horizonte
+CUST02517,SP,Rio de Janeiro
+CUST02024,RJ,Curitiba
+CUST00845,RS,Porto Alegre
+CUST02648,SP,Belo Horizonte
+CUST02695,SP,Curitiba
+CUST01537,MG,Curitiba
+CUST02188,RS,Belo Horizonte
+CUST00997,SP,Rio de Janeiro
+CUST01444,SP,Curitiba
+CUST00212,SP,Curitiba
+CUST01991,MG,Porto Alegre
+CUST00732,MG,Curitiba
+CUST01906,MG,Porto Alegre
+CUST00175,MG,Belo Horizonte
+CUST01229,SP,Rio de Janeiro
+CUST02920,SP,Rio de Janeiro
+CUST01773,RJ,Rio de Janeiro
+CUST01852,ES,Curitiba
+CUST00868,GO,Curitiba
+CUST01990,SP,Curitiba
+CUST00255,RS,Porto Alegre
+CUST02363,MG,Porto Alegre
+CUST01801,SP,Rio de Janeiro
+CUST00220,RS,São Paulo
+CUST00188,SP,São Paulo
+CUST02008,PE,Belo Horizonte
+CUST01178,SP,Rio de Janeiro
+CUST02861,MG,Curitiba
+CUST00872,RJ,Curitiba
+CUST00068,SP,Porto Alegre
+CUST02376,SP,São Paulo
+CUST01758,SP,Belo Horizonte
+CUST02787,RJ,Porto Alegre
+CUST01862,RJ,Curitiba
+CUST00787,RJ,Belo Horizonte
+CUST00804,SP,São Paulo
+CUST00950,RJ,Rio de Janeiro
+CUST00897,SP,Curitiba
+CUST00509,SP,Porto Alegre
+CUST01550,MG,Belo Horizonte
+CUST01941,SP,Porto Alegre
+CUST01977,SP,São Paulo
+CUST00355,RS,Rio de Janeiro
+CUST01759,MG,Curitiba
+CUST01570,SP,Curitiba
+CUST01794,MG,Porto Alegre
+CUST00449,PR,Curitiba
+CUST01648,PR,Porto Alegre
+CUST00814,RJ,Curitiba
+CUST01376,RS,São Paulo
+CUST01513,BA,Belo Horizonte
+CUST01416,SP,São Paulo
+CUST00505,MG,Porto Alegre
+CUST01730,SP,Belo Horizonte
+CUST02402,RS,São Paulo
+CUST02814,SP,Belo Horizonte
+CUST00358,SP,Rio de Janeiro
+CUST00079,RJ,São Paulo
+CUST01329,MG,São Paulo
+CUST02808,RS,Porto Alegre
+CUST01201,BA,Porto Alegre
+CUST02882,BA,Rio de Janeiro
+CUST02045,SP,Porto Alegre
+CUST02356,PR,São Paulo
+CUST02031,SP,Curitiba
+CUST01107,SP,Curitiba
+CUST02534,PR,Belo Horizonte
+CUST01337,RS,Curitiba
+CUST00597,MG,Curitiba
+CUST01976,SP,Rio de Janeiro
+CUST01713,SP,Belo Horizonte
+CUST02194,ES,Curitiba
+CUST01781,RJ,Belo Horizonte
+CUST02786,RJ,São Paulo
+CUST02642,MG,Rio de Janeiro
+CUST01536,SP,Belo Horizonte
+CUST02460,RS,São Paulo
+CUST00683,SP,São Paulo
+CUST01936,SC,São Paulo
+CUST02602,MG,Rio de Janeiro
+CUST01610,RJ,São Paulo
+CUST02340,RJ,São Paulo
+CUST00380,SP,Rio de Janeiro
+CUST01237,RJ,São Paulo
+CUST01665,SP,Rio de Janeiro
+CUST01014,PR,São Paulo
+CUST01828,SP,Belo Horizonte
+CUST00556,SP,São Paulo
+CUST00310,SP,Curitiba
+CUST01165,SP,Curitiba
+CUST01128,RS,São Paulo
+CUST01365,BA,Rio de Janeiro
+CUST02337,SP,Rio de Janeiro
+CUST00190,PR,São Paulo
+CUST02683,GO,Curitiba
+CUST00313,SP,Belo Horizonte
+CUST02870,MG,Belo Horizonte
+CUST02226,SP,Porto Alegre
+CUST00463,RS,Porto Alegre
+CUST01840,RJ,São Paulo
+CUST00184,SP,Rio de Janeiro
+CUST01717,RJ,Rio de Janeiro
+CUST01025,SP,Curitiba
+CUST01843,PR,Porto Alegre
+CUST00768,SC,São Paulo
+CUST00126,GO,Belo Horizonte
+CUST01681,PR,Rio de Janeiro
+CUST02522,PR,Belo Horizonte
+CUST00370,SP,Rio de Janeiro
+CUST02763,SP,São Paulo
+CUST02729,SP,Rio de Janeiro
+CUST01017,RJ,São Paulo
+CUST00200,SP,Curitiba
+CUST00419,MG,Curitiba
+CUST01364,MG,São Paulo
+CUST02238,BA,Rio de Janeiro
+CUST01471,SC,Curitiba
+CUST01291,RJ,Curitiba
+CUST02383,RJ,Porto Alegre
+CUST01135,ES,Rio de Janeiro
+CUST02605,SP,Rio de Janeiro
+CUST00222,RJ,Belo Horizonte
+CUST00638,MG,Curitiba
+CUST01227,RJ,Rio de Janeiro
+CUST00629,SC,Curitiba
+CUST01442,RS,São Paulo
+CUST02256,ES,Belo Horizonte
+CUST01070,SP,Porto Alegre
+CUST00670,SC,Porto Alegre
+CUST01396,PR,Rio de Janeiro
+CUST02962,SP,Belo Horizonte
+CUST02751,PR,Curitiba
+CUST02883,SP,Rio de Janeiro
+CUST00652,SP,Rio de Janeiro
+CUST00008,SP,Belo Horizonte
+CUST02173,RJ,Porto Alegre
+CUST02410,SP,São Paulo
+CUST02838,MG,Curitiba
+CUST01379,ES,Porto Alegre
+CUST02668,SP,São Paulo
+CUST01011,RJ,Rio de Janeiro
+CUST01019,BA,São Paulo
+CUST00718,SP,Curitiba
+CUST02755,PR,Rio de Janeiro
+CUST02738,GO,São Paulo
+CUST02677,RJ,Curitiba
+CUST00196,BA,Belo Horizonte
+CUST01385,RJ,São Paulo
+CUST00912,MG,Curitiba
+CUST00991,SP,Curitiba
+CUST00020,SP,Rio de Janeiro
+CUST02455,SP,Rio de Janeiro
+CUST02142,SP,Curitiba
+CUST01994,RJ,Porto Alegre
+CUST01901,MG,São Paulo
+CUST02709,SP,Rio de Janeiro
+CUST00178,PE,Curitiba
+CUST02634,SP,São Paulo
+CUST00275,ES,Rio de Janeiro
+CUST02937,SP,Belo Horizonte
+CUST01695,SP,Belo Horizonte
+CUST00266,SP,Curitiba
+CUST00630,MG,Belo Horizonte
+CUST01557,SP,Rio de Janeiro
+CUST00971,SP,Belo Horizonte
+CUST02539,RJ,Porto Alegre
+CUST00632,MG,São Paulo
+CUST00213,BA,Porto Alegre
+CUST02737,MG,Curitiba
+CUST02829,RJ,Curitiba
+CUST00871,MG,Porto Alegre
+CUST02704,SP,Belo Horizonte
+CUST00026,GO,Porto Alegre
+CUST02551,RJ,Rio de Janeiro
+CUST01565,SP,Belo Horizonte
+CUST02571,ES,Porto Alegre
+CUST02446,SP,Rio de Janeiro
+CUST01893,MG,Porto Alegre
+CUST01120,PR,Belo Horizonte
+CUST01888,GO,Curitiba
+CUST02073,MG,Curitiba
+CUST02206,MG,Rio de Janeiro
+CUST02879,SP,Rio de Janeiro
+CUST01625,PR,Porto Alegre
+CUST00412,RJ,Curitiba
+CUST01041,RS,Belo Horizonte
+CUST00953,SP,Porto Alegre
+CUST00795,SP,Belo Horizonte
+CUST02685,MG,Curitiba
+CUST01398,MG,Porto Alegre
+CUST00462,RJ,Rio de Janeiro
+CUST00332,RJ,Porto Alegre
+CUST00285,SC,São Paulo
+CUST00348,RJ,São Paulo
+CUST01059,MG,Rio de Janeiro
+CUST01230,RS,Curitiba
+CUST00284,BA,Rio de Janeiro
+CUST01287,BA,Curitiba
+CUST00590,RJ,Porto Alegre
+CUST00961,SP,Belo Horizonte
+CUST00654,PR,Porto Alegre
+CUST02171,MG,São Paulo
+CUST00253,SP,Belo Horizonte
+CUST02826,SP,São Paulo
+CUST01161,ES,São Paulo
+CUST01675,RS,São Paulo
+CUST00684,GO,Porto Alegre
+CUST02549,SP,Porto Alegre
+CUST00983,RJ,Belo Horizonte
+CUST02819,SC,Rio de Janeiro
+CUST01984,SP,São Paulo
+CUST01049,SP,Rio de Janeiro
+CUST00033,SP,Porto Alegre
+CUST01715,RJ,Belo Horizonte
+CUST01234,SP,Belo Horizonte
+CUST00649,RJ,Rio de Janeiro
+CUST02002,SP,Belo Horizonte
+CUST00265,SP,Belo Horizonte
+CUST01174,RJ,Curitiba
+CUST00873,RJ,Porto Alegre
+CUST02325,RJ,Rio de Janeiro
+CUST01318,SP,Porto Alegre
+CUST00908,SC,Belo Horizonte
+CUST01529,PR,Belo Horizonte
+CUST02196,GO,Belo Horizonte
+CUST02351,SP,Belo Horizonte
+CUST01985,RJ,Belo Horizonte
+CUST00915,MG,Belo Horizonte
+CUST02198,RJ,São Paulo
+CUST00604,SP,Rio de Janeiro
+CUST02561,RJ,Curitiba
+CUST02848,BA,São Paulo
+CUST01086,RJ,São Paulo
+CUST02162,ES,Belo Horizonte
+CUST01664,SP,Belo Horizonte
+CUST00773,SP,Curitiba
+CUST02135,MG,Rio de Janeiro
+CUST02645,MG,Curitiba
+CUST00257,SP,São Paulo
+CUST02480,SP,Belo Horizonte
+CUST00387,MG,São Paulo
+CUST02398,SP,Porto Alegre
+CUST02068,SP,Belo Horizonte
+CUST02616,SP,São Paulo
+CUST00779,SP,Belo Horizonte
+CUST00935,SP,São Paulo
+CUST01736,SP,Porto Alegre
+CUST02597,SP,Rio de Janeiro
+CUST02892,RS,Belo Horizonte
+CUST02489,SP,Curitiba
+CUST01020,SP,São Paulo
+CUST00996,SP,São Paulo
+CUST00474,SP,Belo Horizonte
+CUST01367,RJ,Porto Alegre
+CUST02568,SC,Porto Alegre
+CUST00333,PR,Curitiba
+CUST00823,RJ,Belo Horizonte
+CUST00047,PE,São Paulo
+CUST01403,SP,Belo Horizonte
+CUST00709,SP,Curitiba
+CUST00023,GO,Porto Alegre
+CUST00613,GO,Belo Horizonte
+CUST01386,PR,Porto Alegre
+CUST02570,PR,Curitiba
+CUST02881,SP,Belo Horizonte
+CUST00682,SP,Belo Horizonte
+CUST02266,BA,São Paulo
+CUST01296,SP,Rio de Janeiro
+CUST02784,RS,Curitiba
+CUST02987,MG,Rio de Janeiro
+CUST01316,RJ,Porto Alegre
+CUST01310,GO,Porto Alegre
+CUST02330,SC,Belo Horizonte
+CUST02109,RS,Curitiba
+CUST02745,SP,São Paulo
+CUST00298,SP,Belo Horizonte
+CUST02034,SC,Rio de Janeiro
+CUST00673,RJ,Curitiba
+CUST02300,PR,Rio de Janeiro
+CUST02341,SP,Belo Horizonte
+CUST02208,RJ,Rio de Janeiro
+CUST01082,SP,Rio de Janeiro
+CUST01062,RJ,Curitiba
+CUST00558,RJ,Belo Horizonte
+CUST01394,MG,Porto Alegre
+CUST00198,MG,Porto Alegre
+CUST02663,RJ,Belo Horizonte
+CUST00999,SC,São Paulo
+CUST01047,SP,Rio de Janeiro
+CUST01331,RS,Porto Alegre
+CUST02906,RJ,Porto Alegre
+CUST01752,SP,Belo Horizonte
+CUST01605,SC,Porto Alegre
+CUST02632,RJ,São Paulo
+CUST00014,SP,São Paulo
+CUST02558,GO,Belo Horizonte
+CUST00977,RJ,Belo Horizonte
+CUST02504,MG,Rio de Janeiro
+CUST02448,SC,Porto Alegre
+CUST01146,RS,Porto Alegre
+CUST02047,BA,Curitiba
+CUST01277,SC,Rio de Janeiro
+CUST00227,RJ,Porto Alegre
+CUST00676,MG,Rio de Janeiro
+CUST01388,RS,Belo Horizonte
+CUST02205,PE,Belo Horizonte
+CUST02110,RJ,Belo Horizonte
+CUST02726,SP,Curitiba
+CUST00225,SP,Porto Alegre
+CUST00204,SP,Rio de Janeiro
+CUST00524,BA,Curitiba
+CUST02329,SP,Rio de Janeiro
+CUST00502,MG,Rio de Janeiro
+CUST00242,SP,Curitiba
+CUST01800,SP,Rio de Janeiro
+CUST01203,SP,Rio de Janeiro
+CUST00223,RS,Porto Alegre
+CUST02414,MG,Curitiba
+CUST01551,SP,Porto Alegre
+CUST00050,MG,Rio de Janeiro
+CUST01096,ES,São Paulo
+CUST01437,PE,Rio de Janeiro
+CUST00762,PR,Porto Alegre
+CUST00491,SP,Belo Horizonte
+CUST00837,SP,São Paulo
+CUST02149,GO,Porto Alegre
+CUST00711,MG,Porto Alegre
+CUST02748,RS,Belo Horizonte
+CUST00945,RS,São Paulo
+CUST01238,SP,Curitiba
+CUST00234,SP,Porto Alegre
+CUST02744,RJ,Belo Horizonte
+CUST00337,SP,Porto Alegre
+CUST01785,SP,Rio de Janeiro
+CUST02327,SP,Porto Alegre
+CUST00396,SP,Belo Horizonte
+CUST02899,SP,Porto Alegre
+CUST01328,SP,São Paulo
+CUST01044,SP,Porto Alegre
+CUST02499,RJ,Belo Horizonte
+CUST02202,SP,São Paulo
+CUST01013,RJ,Curitiba
+CUST00384,SP,Porto Alegre
+CUST01896,MG,Porto Alegre
+CUST00465,PR,Curitiba
+CUST00214,RS,Belo Horizonte
+CUST00403,PR,São Paulo
+CUST00108,SP,Porto Alegre
+CUST00702,SC,Curitiba
+CUST01810,SP,Belo Horizonte
+CUST01915,SP,São Paulo
+CUST01408,BA,Curitiba
+CUST02855,PR,São Paulo
+CUST00197,SC,Porto Alegre
+CUST02978,RJ,Rio de Janeiro
+CUST01314,SP,Belo Horizonte
+CUST01129,RJ,Porto Alegre
+CUST00081,RJ,Rio de Janeiro
+CUST02999,SP,Porto Alegre
+CUST00400,SP,Rio de Janeiro
+CUST02312,SP,São Paulo
+CUST01361,SP,Curitiba
+CUST02871,MG,Curitiba
+CUST02515,SP,São Paulo
+CUST02588,SP,Belo Horizonte
+CUST01661,SP,Rio de Janeiro
+CUST02111,MG,Curitiba
+CUST01315,RJ,Rio de Janeiro
+CUST00608,RJ,Belo Horizonte
+CUST01289,SP,Rio de Janeiro
+CUST02321,MG,Porto Alegre
+CUST02003,SP,Rio de Janeiro
+CUST01907,PR,Curitiba
+CUST00139,PR,Belo Horizonte
+CUST00063,ES,Belo Horizonte
+CUST01660,SP,Belo Horizonte
+CUST01912,PR,Porto Alegre
+CUST02269,SC,São Paulo
+CUST01676,RJ,Porto Alegre
+CUST02164,RJ,Porto Alegre
+CUST00573,SP,Belo Horizonte
+CUST01630,PR,São Paulo
+CUST00425,RJ,Belo Horizonte
+CUST00584,SP,Curitiba
+CUST02998,RJ,Curitiba
+CUST02336,MG,Belo Horizonte
+CUST01637,PR,Rio de Janeiro
+CUST01426,SC,Curitiba
+CUST02290,SP,Rio de Janeiro
+CUST00612,BA,São Paulo
+CUST00537,RJ,São Paulo
+CUST00132,SP,Belo Horizonte
+CUST00758,RJ,Rio de Janeiro
+CUST01001,BA,Curitiba
+CUST02835,MG,São Paulo
+CUST02362,SP,Belo Horizonte
+CUST00906,SP,Porto Alegre
+CUST02970,ES,Belo Horizonte
+CUST00088,MG,Rio de Janeiro
+CUST00789,SP,Belo Horizonte
+CUST00633,SP,Porto Alegre
+CUST02529,SP,Rio de Janeiro
+CUST00826,SP,Rio de Janeiro
+CUST02939,BA,Curitiba
+CUST00306,RJ,São Paulo
+CUST00747,SP,Rio de Janeiro
+CUST01010,SP,Porto Alegre
+CUST00481,ES,Belo Horizonte
+CUST01474,SP,São Paulo
+CUST00138,SP,São Paulo
+CUST02093,RJ,Porto Alegre
+CUST01891,SP,Curitiba
+CUST02277,GO,São Paulo
+CUST01514,SP,Curitiba
+CUST02368,BA,Belo Horizonte
+CUST01657,PR,Porto Alegre
+CUST00321,PR,São Paulo
+CUST00665,GO,Porto Alegre
+CUST01902,RJ,São Paulo
+CUST02255,SP,Curitiba
+CUST00772,RJ,Rio de Janeiro
+CUST01079,RJ,Rio de Janeiro
+CUST01706,RS,São Paulo
+CUST02791,SP,Porto Alegre
+CUST00245,SP,Curitiba
+CUST00725,RJ,Belo Horizonte
+CUST00496,PE,Porto Alegre
+CUST01882,SP,Belo Horizonte
+CUST00117,SP,Curitiba
+CUST02608,PR,Porto Alegre
+CUST00785,PR,Curitiba
+CUST01023,PR,Curitiba
+CUST00526,SP,Porto Alegre
+CUST01483,SP,Porto Alegre
+CUST02840,SP,Rio de Janeiro
+CUST01189,GO,São Paulo
+CUST01560,PR,Porto Alegre
+CUST00148,RS,Rio de Janeiro
+CUST02890,RJ,Porto Alegre
+CUST02049,BA,Porto Alegre
+CUST02183,SP,São Paulo
+CUST02482,ES,Belo Horizonte
+CUST01387,SP,Belo Horizonte
+CUST00686,SP,São Paulo
+CUST01519,RS,Rio de Janeiro
+CUST02707,SC,Belo Horizonte
+CUST00162,RJ,Belo Horizonte
+CUST02358,MG,Porto Alegre
+CUST00459,RJ,São Paulo
+CUST00293,SP,Curitiba
+CUST00430,MG,Rio de Janeiro
+CUST02867,GO,Porto Alegre
+CUST00850,SC,São Paulo
+CUST01775,RJ,Rio de Janeiro
+CUST02263,SP,Porto Alegre
+CUST01116,SP,São Paulo
+CUST02268,RJ,São Paulo
+CUST00352,PR,Rio de Janeiro
+CUST01807,PR,Rio de Janeiro
+CUST00531,MG,Porto Alegre
+CUST02968,SP,São Paulo
+CUST02547,SP,Porto Alegre
+CUST02766,SP,São Paulo
+CUST02015,SP,Belo Horizonte
+CUST01958,PR,Curitiba
+CUST01584,SP,Curitiba
+CUST02176,SP,Porto Alegre
+CUST01790,RJ,São Paulo
+CUST02033,GO,Porto Alegre
+CUST00934,PR,São Paulo
+CUST00448,MG,Porto Alegre
+CUST02572,SP,São Paulo
+CUST02229,SP,Curitiba
+CUST01412,RJ,São Paulo
+CUST00098,SP,São Paulo
+CUST00157,PR,São Paulo
+CUST01407,SC,Rio de Janeiro
+CUST01815,SP,Curitiba
+CUST02656,MG,Belo Horizonte
+CUST01817,MG,Rio de Janeiro
+CUST02471,ES,Rio de Janeiro
+CUST00591,SP,Rio de Janeiro
+CUST02902,MG,Porto Alegre
+CUST01693,SP,São Paulo
+CUST00694,SP,São Paulo
+CUST02724,RS,Curitiba
+CUST00480,SP,Curitiba
+CUST01425,SP,Curitiba
+CUST00809,BA,São Paulo
+CUST01507,SP,Porto Alegre
+CUST00364,MG,Belo Horizonte
+CUST00155,SP,Rio de Janeiro
+CUST02761,MG,Porto Alegre
+CUST01619,MG,Porto Alegre
+CUST02311,SP,Curitiba
+CUST01946,RJ,São Paulo
+CUST01799,RJ,Porto Alegre
+CUST00816,BA,São Paulo
+CUST02025,MG,Porto Alegre
+CUST02889,SP,Rio de Janeiro
+CUST02621,RS,Porto Alegre
+CUST02403,SP,Belo Horizonte
+CUST00179,PR,Curitiba
+CUST01836,MG,Belo Horizonte
+CUST01155,SP,Curitiba
+CUST01922,MG,São Paulo
+CUST02783,PR,Belo Horizonte
+CUST02317,SC,Curitiba
+CUST01417,MG,São Paulo
+CUST01358,RJ,Belo Horizonte
+CUST00904,SP,Rio de Janeiro
+CUST00375,RS,Curitiba
+CUST01981,PR,Curitiba
+CUST01478,SP,Belo Horizonte
+CUST01748,MG,São Paulo
+CUST02056,RJ,Porto Alegre
+CUST01021,RJ,São Paulo
+CUST01787,BA,Belo Horizonte
+CUST00377,SP,Porto Alegre
+CUST00078,SP,Porto Alegre
+CUST01429,RJ,São Paulo
+CUST00241,PR,São Paulo
+CUST01642,RJ,Belo Horizonte
+CUST01732,RJ,Rio de Janeiro
+CUST01729,SP,Curitiba
+CUST01153,SP,São Paulo
+CUST00487,PR,São Paulo
+CUST01173,PR,São Paulo
+CUST02652,BA,São Paulo
+CUST02092,RS,Rio de Janeiro
+CUST01383,SP,São Paulo
+CUST01531,MG,Belo Horizonte
+CUST02478,BA,Belo Horizonte
+CUST02587,MG,Porto Alegre
+CUST02181,SC,Rio de Janeiro
+CUST00811,RJ,Curitiba
+CUST00967,RS,Porto Alegre
+CUST00101,RS,Porto Alegre
+CUST02167,SP,Belo Horizonte
+CUST00082,SP,São Paulo
+CUST01873,SP,Belo Horizonte
+CUST02857,SP,Porto Alegre
+CUST00382,MG,Rio de Janeiro
+CUST02310,GO,Curitiba
+CUST00057,RJ,Curitiba
+CUST01270,SP,Rio de Janeiro
+CUST02901,ES,Curitiba
+CUST00503,BA,Porto Alegre
+CUST01855,MG,Rio de Janeiro
+CUST02812,PR,São Paulo
+CUST00562,PR,Belo Horizonte
+CUST02247,RJ,São Paulo
+CUST00923,MG,Rio de Janeiro
+CUST00238,SC,Belo Horizonte
+CUST01949,SP,Rio de Janeiro
+CUST00154,SP,Porto Alegre
+CUST02660,MG,Curitiba
+CUST01207,SP,Curitiba
+CUST00471,RJ,Belo Horizonte
+CUST01177,MG,Belo Horizonte
+CUST02995,RJ,Rio de Janeiro
+CUST02742,RJ,Porto Alegre
+CUST02963,SP,Belo Horizonte
+CUST00031,SC,Curitiba
+CUST01638,ES,Belo Horizonte
+CUST01685,RJ,Porto Alegre
+CUST00106,SP,São Paulo
+CUST00549,SP,Porto Alegre
+CUST02210,RJ,Porto Alegre
+CUST02058,RJ,Curitiba
+CUST01485,MG,São Paulo
+CUST02296,SP,Porto Alegre
+CUST01686,SP,Belo Horizonte
+CUST02530,SC,Porto Alegre
+CUST02880,RJ,Curitiba
+CUST00859,SP,Porto Alegre
+CUST01169,SP,São Paulo
+CUST01206,SP,Curitiba
+CUST00002,SP,Rio de Janeiro
+CUST02408,SP,Curitiba
+CUST01763,SP,Porto Alegre
+CUST00235,SP,São Paulo
+CUST02357,GO,Porto Alegre
+CUST01876,SP,Porto Alegre
+CUST02190,SP,Curitiba
+CUST02680,RJ,Porto Alegre
+CUST01989,SP,Belo Horizonte
+CUST01658,BA,Porto Alegre
+CUST01951,SP,Rio de Janeiro
+CUST02994,SP,Porto Alegre
+CUST02592,RJ,Rio de Janeiro
+CUST02980,MG,Porto Alegre
+CUST02495,RJ,Curitiba
+CUST02294,SP,Belo Horizonte
+CUST02611,BA,Rio de Janeiro
+CUST02614,PR,Porto Alegre
+CUST00847,GO,Belo Horizonte
+CUST01814,MG,Curitiba
+CUST00291,GO,Curitiba
+CUST00224,PR,Porto Alegre
+CUST02778,MG,Porto Alegre
+CUST02112,GO,Curitiba
+CUST01143,RJ,São Paulo
+CUST00887,SP,Curitiba
+CUST00216,MG,Curitiba
+CUST01629,MG,Curitiba
+CUST02211,MG,São Paulo
+CUST01118,MG,Porto Alegre
+CUST01643,RJ,Porto Alegre
+CUST01166,RJ,Porto Alegre
+CUST02043,SP,Curitiba
+CUST02743,SP,Belo Horizonte
+CUST02914,PR,Porto Alegre
+CUST01933,PR,Porto Alegre
+CUST01747,SP,Curitiba
+CUST02679,RJ,Rio de Janeiro
+CUST02283,BA,Porto Alegre
+CUST01696,SP,São Paulo
+CUST02022,GO,Porto Alegre
+CUST00943,SC,Belo Horizonte
+CUST02042,SP,Porto Alegre
+CUST00513,BA,Porto Alegre
+CUST00987,SP,Curitiba
+CUST01258,SP,São Paulo
+CUST02601,RJ,Belo Horizonte
+CUST02126,SP,Belo Horizonte
+CUST00560,SP,Rio de Janeiro
+CUST01450,PR,Curitiba
+CUST01633,SP,Porto Alegre
+CUST00734,RJ,São Paulo
+CUST01194,SP,Belo Horizonte
+CUST02816,SP,São Paulo
+CUST01384,RS,Porto Alegre
+CUST01770,PR,São Paulo
+CUST01031,SP,São Paulo
+CUST01618,BA,São Paulo
+CUST01320,RJ,Rio de Janeiro
+CUST02344,MG,Rio de Janeiro
+CUST01068,RS,Porto Alegre
+CUST00269,SP,Curitiba
+CUST01939,SP,São Paulo
+CUST02443,RS,Curitiba
+CUST02852,MG,Porto Alegre
+CUST02919,BA,Rio de Janeiro
+CUST00401,SC,Belo Horizonte
+CUST00150,GO,São Paulo
+CUST01539,SC,Porto Alegre
+CUST02304,MG,Belo Horizonte
+CUST02401,SP,Belo Horizonte
+CUST02138,RJ,São Paulo
+CUST00415,SC,Porto Alegre
+CUST00417,SP,Curitiba
+CUST02655,MG,Porto Alegre
+CUST00740,SC,Rio de Janeiro
+CUST00551,SC,Porto Alegre
+CUST01048,RJ,Rio de Janeiro
+CUST01913,MG,Rio de Janeiro
+CUST01872,GO,Curitiba
+CUST02518,PR,Porto Alegre
+CUST00520,SP,Curitiba
+CUST02081,SP,Rio de Janeiro
+CUST02915,RJ,Rio de Janeiro
+CUST02411,RJ,Rio de Janeiro
+CUST01195,RS,São Paulo
+CUST01923,RJ,Curitiba
+CUST01846,RS,Porto Alegre
+CUST01884,SP,Belo Horizonte
+CUST02197,RJ,São Paulo
+CUST02078,SC,Curitiba
+CUST01350,BA,Rio de Janeiro
+CUST00445,SP,Curitiba
+CUST01870,SP,Rio de Janeiro
+CUST00156,RS,Rio de Janeiro
+CUST02922,SP,Porto Alegre
+CUST02817,SP,Rio de Janeiro
+CUST01541,SP,Curitiba
+CUST00025,SP,Belo Horizonte
+CUST01918,SP,Porto Alegre
+CUST02629,MG,Curitiba
+CUST01969,SP,Curitiba
+CUST02435,GO,Porto Alegre
+CUST02156,RS,Porto Alegre
+CUST01561,SC,Rio de Janeiro
+CUST02573,SP,Porto Alegre
+CUST02054,SP,Curitiba
+CUST01054,SP,São Paulo
+CUST00759,RS,São Paulo
+CUST00572,SP,Porto Alegre
+CUST01850,SC,Porto Alegre
+CUST02169,MG,São Paulo
+CUST02800,SP,Rio de Janeiro
+CUST00995,GO,São Paulo
+CUST02447,BA,Curitiba
+CUST02179,MG,Belo Horizonte
+CUST01223,PR,Rio de Janeiro
+CUST02538,BA,Rio de Janeiro
+CUST02831,SP,Belo Horizonte
+CUST02378,SP,Belo Horizonte
+CUST00761,BA,Belo Horizonte
+CUST01568,RJ,Porto Alegre
+CUST00928,SP,Porto Alegre
+CUST00114,BA,Belo Horizonte
+CUST01577,MG,Belo Horizonte
+CUST01274,RJ,Rio de Janeiro
+CUST02404,SP,São Paulo
+CUST01690,SP,São Paulo
+CUST01232,SP,Rio de Janeiro
+CUST01078,SP,Porto Alegre
+CUST00171,SP,São Paulo
+CUST01934,SP,Belo Horizonte
+CUST02433,SP,São Paulo
+CUST02789,RS,Porto Alegre
+CUST01708,RS,São Paulo
+CUST02046,SP,Belo Horizonte
+CUST01576,RJ,Curitiba
+CUST00074,SP,Porto Alegre
+CUST02313,PR,Curitiba
+CUST02279,SP,Curitiba
+CUST01075,RJ,Rio de Janeiro
+CUST02619,RJ,Belo Horizonte
+CUST01598,SP,Belo Horizonte
+CUST00044,BA,São Paulo
+CUST00898,SP,Porto Alegre
+CUST01571,RJ,Porto Alegre
+CUST01793,RS,São Paulo
+CUST01632,RJ,Porto Alegre
+CUST02520,RJ,São Paulo
+CUST02856,MG,Belo Horizonte
+CUST02790,GO,Curitiba
+CUST02066,PR,Porto Alegre
+CUST02894,SC,Porto Alegre
+CUST02209,MG,Belo Horizonte
+CUST02537,SC,Curitiba
+CUST01119,PR,Belo Horizonte
+CUST02886,RJ,Porto Alegre
+CUST02825,RJ,São Paulo
+CUST02569,RS,Curitiba
+CUST00180,PR,São Paulo
+CUST02089,MG,Belo Horizonte
+CUST02189,SP,Belo Horizonte
+CUST00815,MG,Curitiba
+CUST02426,SP,Rio de Janeiro
+CUST00913,MG,Curitiba
+CUST02174,PR,Curitiba
+CUST00302,SP,Rio de Janeiro
+CUST00559,RJ,Rio de Janeiro
+CUST00345,MG,São Paulo
+CUST00300,RJ,Porto Alegre
+CUST01644,PE,Belo Horizonte
+CUST00939,SC,Porto Alegre
+CUST01123,PR,Curitiba
+CUST00975,RJ,Curitiba
+CUST00810,RJ,Belo Horizonte
+CUST02741,RS,Porto Alegre
+CUST02386,MG,Belo Horizonte
+CUST00322,BA,Belo Horizonte
+CUST02722,BA,Rio de Janeiro
+CUST01033,SP,São Paulo
+CUST02750,RJ,Porto Alegre
+CUST01414,RJ,São Paulo
+CUST00667,RJ,Curitiba
+CUST02501,RJ,Rio de Janeiro
+CUST00973,PR,Rio de Janeiro
+CUST00279,SP,Porto Alegre
+CUST00433,SP,Rio de Janeiro
+CUST02578,SP,Belo Horizonte
+CUST02593,RS,Rio de Janeiro
+CUST01582,PR,Curitiba
+CUST02059,BA,Belo Horizonte
+CUST01097,RJ,Porto Alegre
+CUST01777,MG,Belo Horizonte
+CUST01925,SP,São Paulo
+CUST01142,SP,Porto Alegre
+CUST02010,GO,Porto Alegre
+CUST00553,MG,São Paulo
+CUST02514,RJ,Rio de Janeiro
+CUST02964,SP,Curitiba
+CUST02740,SP,Belo Horizonte
+CUST00374,SP,Curitiba
+CUST00980,ES,Rio de Janeiro
+CUST02900,GO,Porto Alegre
+CUST01066,RS,Rio de Janeiro
+CUST02423,RJ,Rio de Janeiro
+CUST01871,SP,Belo Horizonte
+CUST02040,RJ,Curitiba
+CUST01443,RJ,Curitiba
+CUST01235,SP,Porto Alegre
+CUST02070,SP,Belo Horizonte
+CUST01886,SP,São Paulo
+CUST01171,SP,Belo Horizonte
+CUST00398,SP,Rio de Janeiro
+CUST00366,MG,São Paulo
+CUST00865,RJ,São Paulo
+CUST00323,SC,São Paulo
+CUST01409,PR,São Paulo
+CUST02485,MG,São Paulo
+CUST00587,BA,Belo Horizonte
+CUST01689,ES,Belo Horizonte
+CUST00715,SP,Porto Alegre
+CUST01204,SP,Porto Alegre
+CUST00376,PR,Rio de Janeiro
+CUST02756,RS,Curitiba
+CUST02770,SP,Belo Horizonte
+CUST00739,RJ,Curitiba
+CUST02316,BA,Curitiba
+CUST01491,SP,Belo Horizonte
+CUST02438,SP,Porto Alegre
+CUST00469,SC,Rio de Janeiro
+CUST02450,BA,Porto Alegre
+CUST01495,MG,Curitiba
+CUST02545,SP,Rio de Janeiro
+CUST01144,RS,Curitiba
+CUST00545,PR,São Paulo
+CUST00145,SP,Porto Alegre
+CUST00005,RJ,Belo Horizonte
+CUST00476,SP,São Paulo
+CUST00647,RS,Porto Alegre
+CUST01446,SP,Rio de Janeiro
+CUST02596,SP,Rio de Janeiro
+CUST02005,SP,Belo Horizonte
+CUST00833,SP,Curitiba
+CUST01317,GO,Curitiba
+CUST00606,RS,Rio de Janeiro
+CUST02284,SC,Porto Alegre
+CUST00581,SP,Belo Horizonte
+CUST01375,ES,Belo Horizonte
+CUST02617,MG,Curitiba
+CUST00796,MG,São Paulo
+CUST02862,SP,Curitiba
+CUST01121,GO,Curitiba
+CUST00397,SP,Rio de Janeiro
+CUST00674,MG,Curitiba
+CUST00103,MG,Rio de Janeiro
+CUST00447,RS,São Paulo
+CUST02272,BA,Rio de Janeiro
+CUST01424,BA,Belo Horizonte
+CUST01839,ES,Porto Alegre
+CUST02265,SP,Rio de Janeiro
+CUST01139,PR,São Paulo
+CUST00371,SP,Porto Alegre
+CUST00482,SP,Rio de Janeiro
+CUST00016,RJ,Porto Alegre
+CUST01297,SP,Porto Alegre
+CUST01578,RJ,Rio de Janeiro
+CUST01093,SP,Belo Horizonte
+CUST00754,SP,Curitiba
+CUST00577,RJ,São Paulo
+CUST00094,MG,Rio de Janeiro
+CUST01205,MG,Porto Alegre
+CUST00874,GO,Porto Alegre
+CUST02768,SP,Rio de Janeiro
+CUST01084,SP,Porto Alegre
+CUST02752,MG,Rio de Janeiro
+CUST02769,RJ,Porto Alegre
+CUST00019,SP,Curitiba
+CUST00329,PE,Porto Alegre
+CUST00574,RJ,Belo Horizonte
+CUST00422,SP,Belo Horizonte
+CUST00922,BA,Porto Alegre
+CUST01808,RJ,Rio de Janeiro
+CUST02085,SP,Porto Alegre
+CUST01101,GO,Curitiba
+CUST01980,SP,Porto Alegre
+CUST01964,RJ,Porto Alegre
+CUST00586,RJ,São Paulo
+CUST01714,SP,Rio de Janeiro
+CUST00350,SP,Rio de Janeiro
+CUST01838,GO,Rio de Janeiro
+CUST02705,RS,Curitiba
+CUST02308,SP,Curitiba
+CUST00767,SP,Porto Alegre
+CUST00834,RJ,São Paulo
+CUST00259,SP,Belo Horizonte
+CUST01887,PE,Curitiba
+CUST00808,SP,São Paulo
+CUST02805,RS,Rio de Janeiro
+CUST01711,RJ,Curitiba
+CUST00600,GO,Rio de Janeiro
+CUST01222,PR,Porto Alegre
+CUST00672,MG,Belo Horizonte
+CUST02623,SP,São Paulo
+CUST00877,SP,Belo Horizonte
+CUST00281,BA,Rio de Janeiro
+CUST01006,SP,São Paulo
+CUST01283,GO,Belo Horizonte
+CUST00911,SP,Rio de Janeiro
+CUST02697,PR,Porto Alegre
+CUST02153,RS,São Paulo
+CUST00191,SP,São Paulo
+CUST01359,PR,São Paulo
+CUST00598,RJ,Porto Alegre
+CUST01257,MG,Belo Horizonte
+CUST00662,PE,São Paulo
+CUST02334,GO,São Paulo
+CUST01562,RJ,Rio de Janeiro
+CUST00708,RJ,São Paulo
+CUST00938,SP,Rio de Janeiro
+CUST01168,RS,Porto Alegre
+CUST00160,MG,Belo Horizonte
+CUST00209,RS,Curitiba
+CUST00523,SC,São Paulo
+CUST02559,MG,Belo Horizonte
+CUST02372,SP,Belo Horizonte
+CUST02649,SP,Belo Horizonte
+CUST02108,SP,Rio de Janeiro
+CUST02603,SP,São Paulo
+CUST01622,SP,São Paulo
+CUST01105,SP,Rio de Janeiro
+CUST00752,MG,Porto Alegre
+CUST00948,SC,Rio de Janeiro
+CUST02039,SP,Curitiba
+CUST00719,MG,Porto Alegre
+CUST00484,RS,São Paulo
+CUST02445,SP,São Paulo
+CUST00969,PR,Porto Alegre
+CUST00110,SP,Rio de Janeiro
+CUST00735,SP,Rio de Janeiro
+CUST00700,MG,Rio de Janeiro
+CUST01924,SC,Rio de Janeiro
+CUST00679,SP,Curitiba
+CUST02405,RS,Curitiba
+CUST02237,SC,Curitiba
+CUST01151,SP,Rio de Janeiro
+CUST00569,PR,Porto Alegre
+CUST02050,SP,Curitiba
+CUST01298,SP,Porto Alegre
+CUST01136,SP,Belo Horizonte
+CUST01842,RJ,Belo Horizonte
+CUST02306,PR,Curitiba
+CUST00656,SP,São Paulo
+CUST00769,SP,São Paulo
+CUST02799,RJ,São Paulo
+CUST01795,SP,Belo Horizonte
+CUST00027,SC,Porto Alegre
+CUST00885,SC,Porto Alegre
+CUST01411,MG,Curitiba
+CUST02874,PR,São Paulo
+CUST00578,SP,Rio de Janeiro
+CUST00899,RJ,Porto Alegre
+CUST00308,SP,Rio de Janeiro
+CUST01154,PE,Curitiba
+CUST00163,SC,Porto Alegre
+CUST00993,SP,São Paulo
+CUST02940,SC,Rio de Janeiro
+CUST00011,SP,Belo Horizonte
+CUST02117,MG,São Paulo
+CUST01848,SP,Belo Horizonte
+CUST01202,SP,São Paulo
+CUST01428,SC,Rio de Janeiro
+CUST02459,SP,Curitiba
+CUST02462,SP,Rio de Janeiro
+CUST01077,RJ,Curitiba
+CUST02430,SP,Belo Horizonte
+CUST02250,BA,Curitiba
+CUST00566,RJ,Porto Alegre
+CUST00838,RJ,Rio de Janeiro
+CUST02270,SP,Porto Alegre
+CUST00567,MG,Curitiba
+CUST00435,PR,São Paulo
+CUST02712,SP,Belo Horizonte
+CUST01738,PR,Curitiba
+CUST01910,SP,Porto Alegre
+CUST02982,BA,São Paulo
+CUST00193,PR,Curitiba
+CUST01454,PR,Belo Horizonte
+CUST01371,PE,Belo Horizonte
+CUST02260,RS,São Paulo
+CUST02682,SP,Belo Horizonte
+CUST00882,SP,Porto Alegre
+CUST01085,SP,São Paulo
+CUST02734,SC,Curitiba
+CUST00244,SP,Belo Horizonte
+CUST02716,RJ,Curitiba
+CUST02466,RJ,São Paulo
+CUST01988,SP,Rio de Janeiro
+CUST02365,SP,Rio de Janeiro
+CUST02828,SP,São Paulo
+CUST00782,SP,Belo Horizonte
+CUST01242,BA,Curitiba
+CUST00880,RS,São Paulo
+CUST02579,PE,Belo Horizonte
+CUST02823,GO,Rio de Janeiro
+CUST00278,SP,São Paulo
+CUST00090,SP,Porto Alegre
+CUST01087,GO,Belo Horizonte
+CUST02988,SP,Curitiba
+CUST02908,SP,Belo Horizonte
+CUST02017,ES,Porto Alegre
+CUST02379,SP,Porto Alegre
+CUST01470,MG,São Paulo
+CUST02347,SP,Belo Horizonte
+CUST01764,SP,Rio de Janeiro
+CUST00848,SP,Belo Horizonte
+CUST01456,PR,Belo Horizonte
+CUST01326,SP,Porto Alegre
+CUST02264,GO,Porto Alegre
+CUST01295,SP,Belo Horizonte
+CUST00517,SP,Rio de Janeiro
+CUST00304,SP,Belo Horizonte
+CUST01438,BA,São Paulo
+CUST01968,ES,São Paulo
+CUST00655,SP,Porto Alegre
+CUST00542,SP,Curitiba
+CUST01106,RJ,Rio de Janeiro
+CUST02941,RS,Belo Horizonte
+CUST00849,SP,Porto Alegre
+CUST01219,PR,Belo Horizonte
+CUST02129,SP,Rio de Janeiro
+CUST01966,RJ,Belo Horizonte
+CUST02759,PR,Curitiba
+CUST01626,SP,Belo Horizonte
+CUST02960,PR,Curitiba
+CUST01558,MG,São Paulo
+CUST00812,MG,Porto Alegre
+CUST01325,SP,Belo Horizonte
+CUST01332,MG,Porto Alegre
+CUST02113,MG,Curitiba
+CUST01947,RS,Porto Alegre
+CUST00149,SP,Belo Horizonte
+CUST00666,SC,Belo Horizonte
+CUST02369,SC,São Paulo
+CUST01046,RJ,Curitiba
+CUST02192,RJ,Curitiba
+CUST02088,SC,São Paulo
+CUST01554,MG,Porto Alegre
+CUST02788,SP,São Paulo
+CUST02071,RJ,Porto Alegre
+CUST02646,SP,São Paulo
+CUST00136,MG,Porto Alegre
+CUST00555,SP,São Paulo
+CUST02804,PR,Rio de Janeiro
+CUST01945,SP,Belo Horizonte
+CUST02322,SP,Rio de Janeiro
+CUST01614,SP,Curitiba
+CUST02665,RS,São Paulo
+CUST00296,SP,Curitiba
+CUST02827,RS,São Paulo
+CUST02760,SC,Porto Alegre
+CUST01187,ES,Curitiba
+CUST00722,PR,Rio de Janeiro
+CUST02521,SP,Curitiba
+CUST02698,PE,Porto Alegre
+CUST01992,SP,São Paulo
+CUST00334,RJ,Curitiba
+CUST01304,PR,Rio de Janeiro
+CUST02948,SP,Porto Alegre
+CUST01849,SP,Belo Horizonte
+CUST02023,SP,São Paulo
+CUST01324,SP,São Paulo
+CUST00357,BA,São Paulo
+CUST00468,RJ,Belo Horizonte
+CUST02904,SP,Curitiba
+CUST02563,RS,Porto Alegre
+CUST01765,MG,Belo Horizonte
+CUST02199,SP,Curitiba
+CUST00710,SP,Porto Alegre
+CUST01942,SP,Curitiba
+CUST01067,SP,Curitiba
+CUST00707,RS,São Paulo
+CUST00402,BA,Rio de Janeiro
+CUST02531,MG,São Paulo
+CUST00628,MG,Porto Alegre
+CUST02575,SC,São Paulo
+CUST02407,RS,Rio de Janeiro
+CUST00726,RS,Porto Alegre
+CUST00122,SP,Porto Alegre
+CUST00538,SP,Porto Alegre
+CUST02516,SP,Porto Alegre
+CUST00919,RJ,Rio de Janeiro
+CUST00800,GO,Belo Horizonte
+CUST00084,RJ,Porto Alegre
+CUST02934,RS,Belo Horizonte
+CUST02585,SC,Belo Horizonte
+CUST01246,RJ,Porto Alegre
+CUST02961,SC,São Paulo
+CUST02285,SP,Porto Alegre
+CUST02584,SC,Porto Alegre
+CUST02990,MG,Rio de Janeiro
+CUST00131,SP,Belo Horizonte
+CUST01190,RJ,São Paulo
+CUST00550,SP,Rio de Janeiro
+CUST02227,BA,Curitiba
+CUST02095,SP,Curitiba
+CUST00642,SP,São Paulo
+CUST01281,SP,Curitiba
+CUST02714,SP,Belo Horizonte
+CUST01705,SP,Rio de Janeiro
+CUST02123,RS,Porto Alegre
+CUST02439,RJ,Rio de Janeiro
+CUST02498,PE,Rio de Janeiro
+CUST02001,BA,Porto Alegre
+CUST02609,ES,Porto Alegre
+CUST00485,RJ,Belo Horizonte
+CUST02346,SP,Rio de Janeiro
+CUST02772,RS,Porto Alegre
+CUST00778,SP,Rio de Janeiro
+CUST02434,SP,Rio de Janeiro
+CUST02302,PR,São Paulo
+CUST00691,BA,Belo Horizonte
+CUST00408,BA,Curitiba
+CUST01501,SP,Curitiba
+CUST02248,MG,Porto Alegre
+CUST02207,GO,Curitiba
+CUST01616,RS,Porto Alegre
+CUST01766,RJ,Porto Alegre
+CUST01480,SP,Belo Horizonte
+CUST01776,BA,Curitiba
+CUST02342,SP,Belo Horizonte
+CUST01503,SP,São Paulo
+CUST00693,SP,Belo Horizonte
+CUST01822,PR,Curitiba
+CUST01703,SP,Curitiba
+CUST02488,SP,São Paulo
+CUST02102,BA,Belo Horizonte
+CUST02887,MG,Curitiba
+CUST02147,PR,São Paulo
+CUST01343,GO,Curitiba
+CUST00331,RJ,Rio de Janeiro
+CUST00393,BA,Curitiba
+CUST02526,RJ,Belo Horizonte
+CUST00424,SP,Porto Alegre
+CUST00985,SP,Curitiba
+CUST00356,BA,Rio de Janeiro
+CUST02087,SP,São Paulo
+CUST00970,RS,Porto Alegre
+CUST01103,RJ,Porto Alegre
+CUST00742,RJ,Curitiba
+CUST02618,SC,Rio de Janeiro
+CUST00942,RS,Curitiba
+CUST01482,RJ,Belo Horizonte
+CUST01624,SC,Curitiba
+CUST02217,SP,São Paulo
+CUST01564,SP,Curitiba
+CUST02577,GO,Rio de Janeiro
+CUST01362,ES,Belo Horizonte
+CUST02936,RJ,Curitiba
+CUST00786,SP,Belo Horizonte
+CUST02715,ES,Rio de Janeiro
+CUST02377,RJ,Porto Alegre
+CUST00172,SP,Rio de Janeiro
+CUST00780,SP,Porto Alegre
+CUST01673,SP,Belo Horizonte
+CUST01141,PR,Porto Alegre
+CUST01181,MG,Curitiba
+CUST02315,PR,Rio de Janeiro
+CUST01723,SP,Belo Horizonte
+CUST02876,SC,Rio de Janeiro
+CUST01228,PR,São Paulo
+CUST01674,RS,Rio de Janeiro
+CUST01357,RS,São Paulo
+CUST01721,BA,Rio de Janeiro
+CUST02524,MG,Porto Alegre
+CUST01024,ES,Belo Horizonte
+CUST02332,SC,Belo Horizonte
+CUST01526,SP,Belo Horizonte
+CUST00118,RJ,Belo Horizonte
+CUST00028,SP,Porto Alegre
+CUST01286,SP,São Paulo
+CUST00819,RS,São Paulo
+CUST00924,SP,Rio de Janeiro
+CUST01256,RS,Rio de Janeiro
+CUST01739,PE,Curitiba
+CUST01319,SP,Belo Horizonte
+CUST00461,SP,Porto Alegre
+CUST02473,BA,São Paulo
+CUST00015,RJ,Rio de Janeiro
+CUST01778,BA,Curitiba
+CUST00765,RS,Rio de Janeiro
+CUST02028,GO,Belo Horizonte
+CUST01239,SP,Rio de Janeiro
+CUST00325,BA,Curitiba
+CUST00420,RJ,São Paulo
+CUST00165,SP,Belo Horizonte
+CUST02141,ES,São Paulo
+CUST02651,SP,São Paulo
+CUST02555,RJ,Curitiba
+CUST02121,PE,Belo Horizonte
+CUST00409,SP,Rio de Janeiro
+CUST00383,PR,Curitiba
+CUST00022,PR,Curitiba
+CUST02913,RJ,Curitiba
+CUST02244,RJ,Belo Horizonte
+CUST00593,RJ,Porto Alegre
+CUST00215,SP,Porto Alegre
+CUST01214,SC,Belo Horizonte
+CUST01865,GO,Belo Horizonte
+CUST01137,SC,Belo Horizonte
+CUST01788,SP,Curitiba
+CUST00843,RS,São Paulo
+CUST02720,MG,Belo Horizonte
+CUST01750,SP,Rio de Janeiro
+CUST00119,GO,Porto Alegre
+CUST01722,RJ,Rio de Janeiro
+CUST02301,SP,Rio de Janeiro
+CUST02257,SP,São Paulo
+CUST01486,PR,Rio de Janeiro
+CUST02958,SP,Belo Horizonte
+CUST02267,SP,São Paulo
+CUST02846,SP,Rio de Janeiro
+CUST01175,GO,Porto Alegre
+CUST01796,SP,São Paulo
+CUST02854,RJ,Rio de Janeiro
+CUST01609,BA,Curitiba
+CUST00547,MG,Belo Horizonte
+CUST00720,SP,Porto Alegre
+CUST02943,RJ,Porto Alegre
+CUST01053,PR,Porto Alegre
+CUST01073,MG,Rio de Janeiro
+CUST00232,SP,Curitiba
+CUST00492,SP,Rio de Janeiro
+CUST01542,BA,Belo Horizonte
+CUST01481,RJ,Curitiba
+CUST02182,PE,Curitiba
+CUST01322,RS,Curitiba
+CUST02261,GO,Rio de Janeiro
+CUST02952,MG,Curitiba
+CUST00051,SP,Rio de Janeiro
+CUST00856,RJ,Rio de Janeiro
+CUST00264,BA,Belo Horizonte
+CUST02615,SP,Rio de Janeiro
+CUST02813,SP,Belo Horizonte
+CUST01639,RS,São Paulo
+CUST00619,GO,Rio de Janeiro
+CUST00920,RJ,São Paulo
+CUST02161,SC,Rio de Janeiro
+CUST01621,SP,Porto Alegre
+CUST00957,RJ,Porto Alegre
+CUST02104,RJ,São Paulo
+CUST00183,SC,Rio de Janeiro
+CUST01627,PR,Porto Alegre
+CUST00757,RJ,São Paulo
+CUST00097,SP,Rio de Janeiro
+CUST00330,SP,Rio de Janeiro
+CUST02367,SC,Porto Alegre
+CUST00429,RJ,Porto Alegre
+CUST00637,PE,Curitiba
+CUST02360,SP,Rio de Janeiro
+CUST02286,RS,Belo Horizonte
+CUST01216,SP,Belo Horizonte
+CUST01353,SC,Belo Horizonte
+CUST02979,SP,Curitiba
+CUST01373,SP,Rio de Janeiro
+CUST02349,SP,São Paulo
+CUST01449,RJ,Porto Alegre
+CUST02681,SP,Curitiba
+CUST02795,RS,Rio de Janeiro
+CUST02184,SP,Rio de Janeiro
+CUST01112,RS,Belo Horizonte
+CUST00738,RS,Curitiba
+CUST01030,MG,Rio de Janeiro
+CUST00959,SP,Belo Horizonte
+CUST02275,PR,Porto Alegre
+CUST02599,RJ,Rio de Janeiro
+CUST02606,SP,Belo Horizonte
+CUST02067,RJ,Porto Alegre
+CUST02333,PR,São Paulo
+CUST01266,SP,Rio de Janeiro
+CUST00903,ES,Rio de Janeiro
+CUST02690,SC,Rio de Janeiro
+CUST02029,SP,Belo Horizonte
+CUST02361,SC,São Paulo
+CUST02803,RS,São Paulo
+CUST00262,PR,Porto Alegre
+CUST01755,SP,Belo Horizonte
+CUST00467,SP,Porto Alegre
+CUST00317,SP,Curitiba
+CUST01405,MG,São Paulo
+CUST02052,RJ,Porto Alegre
+CUST02122,SP,Curitiba
+CUST01245,PR,Curitiba
+CUST00941,RJ,Porto Alegre
+CUST01756,MG,Rio de Janeiro
+CUST00536,MG,Belo Horizonte
+CUST00535,RS,Rio de Janeiro
+CUST02395,SP,Belo Horizonte
+CUST00077,SP,Curitiba
+CUST00361,MG,São Paulo
+CUST00960,SP,São Paulo
+CUST02326,SP,Rio de Janeiro
+CUST02225,RS,Porto Alegre
+CUST00876,RS,São Paulo
+CUST01767,SP,Belo Horizonte
+CUST02278,MG,Belo Horizonte
+CUST02456,RJ,Curitiba
+CUST00418,MG,São Paulo
+CUST01180,RJ,Rio de Janeiro
+CUST01111,RJ,Curitiba
+CUST02594,RJ,Porto Alegre
+CUST02020,SP,Belo Horizonte
+CUST01617,SP,São Paulo
+CUST00750,SP,Porto Alegre
+CUST01523,GO,Curitiba
+CUST00228,PR,Porto Alegre
+CUST02595,MG,Curitiba
+CUST02565,MG,Curitiba
+CUST02508,SP,Curitiba
+CUST01072,SP,Belo Horizonte
+CUST01645,GO,Curitiba
+CUST02242,SP,Porto Alegre
+CUST02967,MG,Curitiba
+CUST00614,BA,Belo Horizonte
+CUST01355,SP,Porto Alegre
+CUST00770,RS,Belo Horizonte
+CUST02072,RS,Porto Alegre
+CUST00280,BA,São Paulo
+CUST00648,SC,Curitiba
+CUST01587,PR,Curitiba
+CUST01544,SP,Belo Horizonte
+CUST01282,RJ,Belo Horizonte
+CUST01996,MG,Belo Horizonte
+CUST02016,BA,Curitiba
+CUST01208,SP,Porto Alegre
+CUST01606,ES,Curitiba
+CUST01436,PE,Rio de Janeiro
+CUST02866,PR,São Paulo
+CUST01823,SP,Curitiba
+CUST00287,RJ,Belo Horizonte
+CUST01897,SP,Curitiba
+CUST00974,PR,Porto Alegre
+CUST02633,SP,Porto Alegre
+CUST02449,RS,Porto Alegre
+CUST01727,SP,Porto Alegre
+CUST02219,GO,Curitiba
+CUST02038,SP,Curitiba
+CUST00112,SP,Rio de Janeiro
+CUST02620,MG,Curitiba
+CUST00965,PR,Belo Horizonte
+CUST01581,BA,Porto Alegre
+CUST01220,SP,Curitiba
+CUST00896,ES,Porto Alegre
+CUST01957,SP,Belo Horizonte
+CUST01308,SP,Porto Alegre
+CUST02797,RJ,Rio de Janeiro
+CUST01525,SP,Rio de Janeiro
+CUST01667,SC,São Paulo
+CUST02757,RS,Porto Alegre
+CUST01179,SP,Curitiba
+CUST02635,SC,São Paulo
+CUST02622,GO,São Paulo
+CUST02468,BA,São Paulo
+CUST01552,SP,Curitiba
+CUST01816,SP,Porto Alegre
+CUST01271,RJ,Porto Alegre
+CUST02500,SP,Porto Alegre
+CUST02971,ES,Curitiba
+CUST01573,SP,Porto Alegre
+CUST02287,SP,Porto Alegre
+CUST00013,SP,São Paulo
+CUST00121,RS,Belo Horizonte
+CUST02195,RJ,Porto Alegre
+CUST02155,SP,São Paulo
+CUST00688,SP,Belo Horizonte
+CUST02114,RJ,Belo Horizonte
+CUST01670,RS,Belo Horizonte
+CUST00677,BA,Curitiba
+CUST00201,SP,Rio de Janeiro
+CUST02824,PR,Curitiba
+CUST02492,RS,Belo Horizonte
+CUST01825,SP,Belo Horizonte
+CUST00256,SP,Porto Alegre
+CUST02641,MG,Porto Alegre
+CUST01656,SP,Rio de Janeiro
+CUST00636,RJ,São Paulo
+CUST01864,SP,Curitiba
+CUST01937,RJ,Porto Alegre
+CUST01264,SP,Belo Horizonte
+CUST00864,MG,Belo Horizonte
+CUST00610,RJ,São Paulo
+CUST01299,MG,São Paulo
+CUST01157,MG,Rio de Janeiro
+CUST02186,SP,Curitiba
+CUST00328,SP,Belo Horizonte
+CUST01494,SC,Porto Alegre
+CUST02710,SP,São Paulo
+CUST00605,MG,Porto Alegre
+CUST00766,RS,Belo Horizonte
+CUST02479,SC,Rio de Janeiro
+CUST02096,SP,Belo Horizonte
+CUST00039,ES,Porto Alegre
+CUST01999,BA,Porto Alegre
+CUST00498,SC,Rio de Janeiro
+CUST00406,SP,Porto Alegre
+CUST00456,PR,Porto Alegre
+CUST01707,SP,Rio de Janeiro
+CUST00905,RS,Belo Horizonte
+CUST01224,PR,Porto Alegre
+CUST01938,RJ,Porto Alegre
+CUST00955,RJ,Belo Horizonte
+CUST00860,SC,São Paulo
+CUST00486,RS,Porto Alegre
+CUST00927,SP,Porto Alegre
+CUST00268,SP,Rio de Janeiro
+CUST02132,PR,Rio de Janeiro
+CUST01418,RJ,São Paulo
+CUST02390,RJ,Rio de Janeiro
+CUST01098,SP,Belo Horizonte
+CUST01510,SP,Belo Horizonte
+CUST00270,RJ,Belo Horizonte
+CUST02802,MG,Porto Alegre
+CUST02014,RJ,São Paulo
+CUST02051,RS,Curitiba
+CUST02006,BA,Belo Horizonte
+CUST00992,SP,Belo Horizonte
+CUST02916,SP,Porto Alegre
+CUST02027,SP,Curitiba
+CUST02262,SP,Porto Alegre
+CUST00706,RS,Belo Horizonte
+CUST01015,MG,São Paulo
+CUST00866,SP,Curitiba
+CUST00986,SP,Belo Horizonte
+CUST00494,SP,Rio de Janeiro
+CUST00210,RJ,Porto Alegre
+CUST02727,SP,Curitiba
+CUST01484,GO,Rio de Janeiro
+CUST01254,RS,Belo Horizonte
+CUST02253,SP,Rio de Janeiro
+CUST02701,SP,Curitiba
+CUST02494,ES,Belo Horizonte
+CUST00820,SP,Belo Horizonte
+CUST01255,RJ,Rio de Janeiro
+CUST00571,PR,Belo Horizonte
+CUST01341,SP,Belo Horizonte
+CUST01172,PR,Rio de Janeiro
+CUST00107,SP,Porto Alegre
+CUST01185,SP,Rio de Janeiro
+CUST00771,SC,Curitiba
+CUST02847,SP,São Paulo
+CUST02610,SP,São Paulo
+CUST00414,SP,São Paulo
+CUST01060,SP,Belo Horizonte
+CUST01885,RJ,Porto Alegre
+CUST01651,SP,Porto Alegre
+CUST00881,PR,Curitiba
+CUST00861,BA,Curitiba
+CUST02021,BA,Rio de Janeiro
+CUST00607,RJ,Belo Horizonte
+CUST00233,GO,Curitiba
+CUST01236,PR,Porto Alegre
+CUST00543,RS,São Paulo
+CUST01196,SP,Belo Horizonte
+CUST00189,MG,Porto Alegre
+CUST00890,SC,Belo Horizonte
+CUST01694,SP,Curitiba
+CUST02875,SP,Rio de Janeiro
+CUST02654,RJ,Curitiba
+CUST01805,SP,Porto Alegre
+CUST01962,BA,São Paulo
+CUST00319,ES,Belo Horizonte
+CUST00478,SP,Belo Horizonte
+CUST00878,MG,Curitiba
+CUST02581,SP,Rio de Janeiro
+CUST01680,GO,Porto Alegre
+CUST00113,SP,Belo Horizonte
+CUST02574,SC,Porto Alegre
+CUST01061,PR,São Paulo
+CUST02771,SP,Belo Horizonte
+CUST01094,SP,Belo Horizonte
+CUST01533,SP,Curitiba
+CUST02956,SP,São Paulo
+CUST00659,PE,Belo Horizonte
+CUST00226,MG,Porto Alegre
+CUST01378,RJ,Rio de Janeiro
+CUST02821,SP,São Paulo
+CUST01263,MG,São Paulo
+CUST00798,SP,Curitiba
+CUST02364,RJ,Curitiba
+CUST02252,RJ,São Paulo
+CUST02782,SP,São Paulo
+CUST00166,MG,Rio de Janeiro
+CUST00109,MG,Porto Alegre
+CUST00664,PR,Belo Horizonte
+CUST02007,SP,Rio de Janeiro
+CUST02909,SP,Rio de Janeiro
+CUST01134,RJ,São Paulo
+CUST01555,SP,Rio de Janeiro
+CUST02932,RS,São Paulo
+CUST01132,BA,Belo Horizonte
+CUST02747,SC,São Paulo
+CUST00434,RJ,Porto Alegre
+CUST02860,SP,São Paulo
+CUST01697,PR,São Paulo
+CUST00921,RJ,Rio de Janeiro
+CUST00764,RS,São Paulo
+CUST02157,MG,Curitiba
+CUST00635,SP,Belo Horizonte
+CUST01860,SP,Belo Horizonte
+CUST02476,SP,Curitiba
+CUST02146,SP,Belo Horizonte
+CUST02175,RJ,Porto Alegre
+CUST00615,RJ,São Paulo
+CUST02060,PE,Belo Horizonte
+CUST00841,SP,São Paulo
+CUST01479,GO,Rio de Janeiro
+CUST01469,GO,Rio de Janeiro
+CUST01312,SP,São Paulo
+CUST01406,GO,Belo Horizonte
+CUST01646,RJ,Curitiba
+CUST00451,SC,São Paulo
+CUST01092,GO,Curitiba
+CUST01716,MG,São Paulo
+CUST00399,SP,Belo Horizonte
+CUST00895,SP,Rio de Janeiro
+CUST01463,RJ,Curitiba
+CUST01830,RS,São Paulo
+CUST02338,SC,Curitiba
+CUST00161,MG,São Paulo
+CUST01149,PR,Porto Alegre
+CUST01108,RJ,Curitiba
+CUST00914,SP,Porto Alegre
+CUST00954,SC,São Paulo
+CUST02888,SP,Rio de Janeiro
+CUST01567,GO,Porto Alegre
+CUST02258,SP,São Paulo
+CUST00423,RJ,Belo Horizonte
+CUST00528,ES,São Paulo
+CUST02692,PR,Rio de Janeiro
+CUST00695,ES,Belo Horizonte
+CUST01692,RJ,São Paulo
+CUST02345,PR,São Paulo
+CUST02506,SP,Belo Horizonte
+CUST00781,SP,Curitiba
+CUST01687,SP,Curitiba
+CUST02765,PR,São Paulo
+CUST02780,SP,Belo Horizonte
+CUST01184,BA,São Paulo
+CUST01392,SC,Curitiba
+CUST02062,SP,Porto Alegre
+CUST01390,PR,Rio de Janeiro
+CUST00143,RJ,Rio de Janeiro
+CUST00966,SP,Curitiba
+CUST00460,RJ,Rio de Janeiro
+CUST02953,RS,Belo Horizonte
+CUST01493,RJ,Curitiba
+CUST02793,MG,Belo Horizonte
+CUST00133,RS,Curitiba
+CUST00565,RJ,São Paulo
+CUST01170,PR,Porto Alegre
+CUST02465,SP,Rio de Janeiro
+CUST00436,SP,São Paulo
+CUST00457,PR,Porto Alegre
+CUST00634,SP,Curitiba
+CUST02653,RJ,São Paulo
+CUST02589,SP,Porto Alegre
+CUST01804,SP,Curitiba
+CUST02891,ES,Porto Alegre
+CUST01433,SP,Curitiba
+CUST00712,PR,Rio de Janeiro
+CUST01649,SP,Rio de Janeiro
+CUST02119,SP,Rio de Janeiro
+CUST02079,SP,São Paulo
+CUST01575,SP,Curitiba
+CUST00851,SP,Porto Alegre
+CUST00135,RS,Belo Horizonte
+CUST01784,SP,Rio de Janeiro
+CUST02613,RJ,São Paulo
+CUST02699,SP,Rio de Janeiro
+CUST01117,RJ,Curitiba
+CUST00173,PR,Rio de Janeiro
+CUST01666,SP,Curitiba
+CUST02235,MG,Belo Horizonte
+CUST02387,RS,São Paulo
+CUST00258,SP,Curitiba
+CUST02903,SP,Porto Alegre
+CUST00246,RJ,Curitiba
+CUST01285,SP,Curitiba
+CUST02507,SP,São Paulo
+CUST01473,SP,Rio de Janeiro
+CUST02993,PE,São Paulo
+CUST01802,SP,Belo Horizonte
+CUST01115,SP,Belo Horizonte
+CUST02204,RJ,São Paulo
+CUST02503,SC,Curitiba
+CUST01734,SP,Belo Horizonte
+CUST00836,SC,Curitiba
+CUST02822,RJ,Porto Alegre
+CUST01419,RS,Rio de Janeiro
+CUST00592,SP,São Paulo
+CUST01164,RJ,Rio de Janeiro
+CUST02239,SP,Porto Alegre
+CUST00813,RJ,Rio de Janeiro
+CUST02897,SP,Belo Horizonte
+CUST01162,BA,Porto Alegre
+CUST01683,GO,Belo Horizonte
+CUST00272,SP,Rio de Janeiro
+CUST01036,RJ,Belo Horizonte
+CUST01847,SP,Rio de Janeiro
+CUST02562,SP,Rio de Janeiro
+CUST02201,RS,Porto Alegre
+CUST00518,SP,Belo Horizonte
+CUST02694,RS,Curitiba
+CUST00744,SP,Belo Horizonte
+CUST01572,SC,Rio de Janeiro
+CUST01095,GO,Porto Alegre
+CUST01421,MG,Belo Horizonte
+CUST01961,SP,Curitiba
+CUST00125,SP,São Paulo
+CUST01959,RJ,São Paulo
+CUST02303,SP,Porto Alegre
+CUST01880,BA,Rio de Janeiro
+CUST02612,RS,Rio de Janeiro
+CUST00884,MG,Porto Alegre
+CUST01760,RJ,Belo Horizonte
+CUST01845,SC,São Paulo
+CUST00105,ES,Porto Alegre
+CUST01401,SP,Belo Horizonte
+CUST02725,SP,Rio de Janeiro
+CUST02580,RS,São Paulo
+CUST01883,RS,Rio de Janeiro
+CUST02687,SP,São Paulo
+CUST00416,ES,Curitiba
+CUST02231,SP,São Paulo
+CUST02320,MG,Belo Horizonte
+CUST01427,SC,Porto Alegre
+CUST00247,ES,Curitiba
+CUST01754,RJ,Rio de Janeiro
+CUST01052,SC,Curitiba
+CUST00893,GO,Belo Horizonte
+CUST02130,PR,Porto Alegre
+CUST00541,SP,Porto Alegre
+CUST00564,RJ,Rio de Janeiro
+CUST01863,ES,Curitiba
+CUST02841,RJ,Rio de Janeiro
+CUST02442,PE,São Paulo
+CUST00678,RS,São Paulo
+CUST01677,RJ,São Paulo
+CUST00466,SP,Porto Alegre
+CUST00240,RS,Belo Horizonte
+CUST00863,SP,São Paulo
+CUST02872,PE,São Paulo
+CUST00713,SP,São Paulo
+CUST01928,SP,Curitiba
+CUST01199,SP,São Paulo
+CUST02628,ES,Belo Horizonte
+CUST02974,SP,Curitiba
+CUST02774,SP,São Paulo
+CUST00532,BA,Porto Alegre
+CUST01034,SP,Curitiba
+CUST02746,RS,São Paulo
+CUST00250,SP,Belo Horizonte
+CUST01415,RJ,Rio de Janeiro
+CUST00728,PE,Belo Horizonte
+CUST02946,SP,Rio de Janeiro
+CUST00962,PR,Curitiba
+CUST00508,SP,Porto Alegre
+CUST02873,RS,Curitiba
+CUST00495,MG,Rio de Janeiro
+CUST01455,PR,Curitiba
+CUST00199,MG,Belo Horizonte
+CUST01126,MG,Rio de Janeiro
+CUST02675,SP,São Paulo
+CUST01522,GO,Belo Horizonte
+CUST00067,SP,Curitiba
+CUST01100,SP,Porto Alegre
+CUST02159,SP,Porto Alegre
+CUST00533,MG,Porto Alegre
+CUST02355,SP,Curitiba
+CUST02811,SP,Porto Alegre
+CUST02082,PR,Rio de Janeiro
+CUST00620,RJ,São Paulo
+CUST00616,SP,Porto Alegre
+CUST01261,RJ,Belo Horizonte
+CUST02921,MG,Belo Horizonte
+CUST01458,SC,Curitiba
+CUST01336,PR,Curitiba
+CUST02191,SP,Belo Horizonte
+CUST02733,RJ,Porto Alegre
+CUST00127,SP,Belo Horizonte
+CUST00017,SP,Curitiba
+CUST02004,ES,São Paulo
+CUST00539,SP,Curitiba
+CUST01826,BA,Rio de Janeiro
+CUST01753,SP,Curitiba
+CUST01841,SP,Belo Horizonte
+CUST01963,RJ,Belo Horizonte
+CUST00444,SC,Curitiba
+CUST00998,SP,Curitiba
+CUST02416,RJ,Rio de Janeiro
+CUST00529,RJ,Porto Alegre
+CUST01380,SP,Rio de Janeiro
+CUST00680,PR,Belo Horizonte
+CUST00697,RJ,Porto Alegre
+CUST02723,RJ,São Paulo
+CUST00525,SP,Rio de Janeiro
+CUST02670,RJ,São Paulo
+CUST02586,SP,Curitiba
+CUST01592,BA,Curitiba
+CUST02785,MG,Belo Horizonte
+CUST02012,SP,Porto Alegre
+CUST00012,SP,Belo Horizonte
+CUST00388,RJ,Belo Horizonte
+CUST02481,SP,Rio de Janeiro
+CUST02989,RJ,Rio de Janeiro
+CUST00621,SP,Curitiba
+CUST01940,SP,Rio de Janeiro
+CUST01140,SP,Rio de Janeiro
+CUST02053,RJ,São Paulo
+CUST01820,SP,Belo Horizonte
+CUST01344,SP,São Paulo
+CUST00347,PE,São Paulo
+CUST02947,SP,Porto Alegre
+CUST02834,RS,São Paulo
+CUST00042,SP,Belo Horizonte
+CUST00335,SC,Belo Horizonte
+CUST01288,SP,Rio de Janeiro
+CUST00699,RS,São Paulo
+CUST02318,SP,Rio de Janeiro
+CUST01737,MG,Curitiba
+CUST00501,SP,Rio de Janeiro
+CUST02241,MG,Curitiba
+CUST00316,MG,Porto Alegre
+CUST02696,SP,Belo Horizonte
+CUST01352,SP,Rio de Janeiro
+CUST00009,GO,Porto Alegre
+CUST01026,RJ,São Paulo
+CUST02976,SC,Porto Alegre
+CUST02271,SC,São Paulo
+CUST00421,PR,Belo Horizonte
+CUST00035,SP,São Paulo
+CUST01771,MG,Rio de Janeiro
+CUST02389,RS,Porto Alegre
+CUST02319,RJ,São Paulo
+CUST01898,SC,Porto Alegre
+CUST01528,SC,Porto Alegre
+CUST01445,ES,Belo Horizonte
+CUST01854,RS,São Paulo
+CUST00842,BA,São Paulo
+CUST02796,SC,São Paulo
+CUST02136,SC,Rio de Janeiro
+CUST01654,SP,Belo Horizonte
+CUST00230,SP,Porto Alegre
+CUST01339,ES,São Paulo
+CUST02986,SP,São Paulo
+CUST02418,SC,São Paulo
+CUST01505,RS,Rio de Janeiro
+CUST02415,SP,Curitiba
+CUST01125,RJ,Porto Alegre
+CUST00696,RJ,São Paulo
+CUST00120,SP,Rio de Janeiro
+CUST01391,SP,São Paulo
+CUST01400,SP,Belo Horizonte
+CUST01953,RJ,Curitiba
+CUST01932,SP,Belo Horizonte
+CUST01868,SP,Curitiba
+CUST02359,SP,Rio de Janeiro
+CUST01979,RJ,Curitiba
+CUST01911,SP,Belo Horizonte
+CUST00080,GO,Rio de Janeiro
+CUST02212,RJ,São Paulo
+CUST00219,BA,Rio de Janeiro
+CUST01590,SP,Curitiba
+CUST01586,RS,Belo Horizonte
+CUST00320,SP,São Paulo
+CUST01853,RS,Porto Alegre
+CUST02626,SP,Rio de Janeiro
+CUST00875,RJ,São Paulo
+CUST02965,PR,São Paulo
+CUST01007,BA,São Paulo
+CUST01489,SC,Rio de Janeiro
