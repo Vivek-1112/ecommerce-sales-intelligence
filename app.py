@@ -158,7 +158,7 @@ if page == "📊 Overview":
     for col, label, val in zip(
         [c1,c2,c3,c4,c5],
         ['💰 Total Revenue','📦 Total Orders','🛒 Avg Order Value','⭐ Avg Review','✅ Delivery Rate'],
-        [f'R$ {total_rev:,.0f}', f'{total_ord:,}', f'R$ {aov:,.0f}', f'{avg_review:.2f}/5', f'{del_rate:.1f}%']
+        [f'₹{total_rev:,.0f}', f'{total_ord:,}', f'₹{aov:,.0f}', f'{avg_review:.2f}/5', f'{del_rate:.1f}%']
     ):
         col.markdown(f"""
         <div class="metric-card">
@@ -174,10 +174,10 @@ if page == "📊 Overview":
         monthly = fdf.groupby('year_month')['total_revenue'].sum().reset_index().sort_values('year_month')
         fig = px.area(monthly, x='year_month', y='total_revenue',
                       color_discrete_sequence=[BLUE],
-                      labels={'year_month':'Month','total_revenue':'Revenue (R$)'})
+                      labels={'year_month':'Month','total_revenue':'Revenue (₹)'})
         fig.update_layout(margin=dict(l=0,r=0,t=10,b=0), height=280,
                           plot_bgcolor='white', paper_bgcolor='white',
-                          yaxis_tickprefix='R$', yaxis_tickformat=',.0f')
+                          yaxis_tickprefix='₹', yaxis_tickformat=',.0f')
         fig.update_traces(line_width=2.5)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -186,10 +186,10 @@ if page == "📊 Overview":
         cat_rev = fdf.groupby('product_category')['total_revenue'].sum().sort_values(ascending=True)
         fig2 = px.bar(cat_rev.reset_index(), x='total_revenue', y='product_category',
                       orientation='h', color_discrete_sequence=[BLUE],
-                      labels={'total_revenue':'Revenue (R$)','product_category':'Category'})
+                      labels={'total_revenue':'Revenue (₹)','product_category':'Category'})
         fig2.update_layout(margin=dict(l=0,r=0,t=10,b=0), height=280,
                            plot_bgcolor='white', paper_bgcolor='white',
-                           yaxis_title='', xaxis_tickprefix='R$', xaxis_tickformat=',.0f')
+                           yaxis_title='', xaxis_tickprefix='₹', xaxis_tickformat=',.0f')
         st.plotly_chart(fig2, use_container_width=True)
 
     col3, col4 = st.columns(2)
@@ -198,10 +198,10 @@ if page == "📊 Overview":
         state_rev = fdf.groupby('customer_state')['total_revenue'].sum().sort_values(ascending=False).head(10)
         fig3 = px.bar(state_rev.reset_index(), x='customer_state', y='total_revenue',
                       color_discrete_sequence=[ORANGE],
-                      labels={'customer_state':'State','total_revenue':'Revenue (R$)'})
+                      labels={'customer_state':'State','total_revenue':'Revenue (₹)'})
         fig3.update_layout(margin=dict(l=0,r=0,t=10,b=0), height=260,
                            plot_bgcolor='white', paper_bgcolor='white',
-                           yaxis_tickprefix='R$', yaxis_tickformat=',.0f')
+                           yaxis_tickprefix='₹', yaxis_tickformat=',.0f')
         st.plotly_chart(fig3, use_container_width=True)
 
     with col4:
@@ -244,7 +244,7 @@ elif page == "📈 Revenue Analysis":
                                   marker=dict(size=6), fill='tozeroy',
                                   fillcolor='rgba(26,86,219,0.1)', name='Revenue'))
         fig.update_layout(height=300, plot_bgcolor='white', paper_bgcolor='white',
-                          yaxis_tickprefix='R$', yaxis_tickformat=',.0f',
+                          yaxis_tickprefix='₹', yaxis_tickformat=',.0f',
                           margin=dict(l=0,r=0,t=10,b=0))
         st.plotly_chart(fig, use_container_width=True)
 
@@ -254,10 +254,10 @@ elif page == "📈 Revenue Analysis":
         dow = fdf.groupby('day_of_week')['total_revenue'].sum().reindex(dow_order).reset_index()
         fig2 = px.bar(dow, x='day_of_week', y='total_revenue',
                       color_discrete_sequence=[GREEN],
-                      labels={'day_of_week':'Day','total_revenue':'Revenue (R$)'})
+                      labels={'day_of_week':'Day','total_revenue':'Revenue (₹)'})
         fig2.update_layout(height=300, plot_bgcolor='white', paper_bgcolor='white',
                            margin=dict(l=0,r=0,t=10,b=0),
-                           yaxis_tickprefix='R$', yaxis_tickformat=',.0f')
+                           yaxis_tickprefix='₹', yaxis_tickformat=',.0f')
         st.plotly_chart(fig2, use_container_width=True)
 
     st.markdown('<div class="section-header">🔥 Revenue Heatmap — Month × Category</div>', unsafe_allow_html=True)
@@ -266,7 +266,7 @@ elif page == "📈 Revenue Analysis":
     month_order = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
     heat = heat.reindex([m for m in month_order if m in heat.index])
     fig3 = px.imshow(heat, color_continuous_scale='Blues', aspect='auto',
-                     labels=dict(x='Category', y='Month', color='Revenue (R$)'))
+                     labels=dict(x='Category', y='Month', color='Revenue (₹)'))
     fig3.update_layout(height=340, margin=dict(l=0,r=0,t=10,b=0))
     st.plotly_chart(fig3, use_container_width=True)
 
@@ -278,8 +278,8 @@ elif page == "📈 Revenue Analysis":
             Revenue  = ('total_revenue','sum'),
             Avg_Price= ('price','mean')
         ).sort_values('Revenue', ascending=False).reset_index()
-        cat_summary['Revenue'] = cat_summary['Revenue'].apply(lambda x: f'R$ {x:,.0f}')
-        cat_summary['Avg_Price'] = cat_summary['Avg_Price'].apply(lambda x: f'R$ {x:,.0f}')
+        cat_summary['Revenue'] = cat_summary['Revenue'].apply(lambda x: f'₹{x:,.0f}')
+        cat_summary['Avg_Price'] = cat_summary['Avg_Price'].apply(lambda x: f'₹{x:,.0f}')
         st.dataframe(cat_summary, use_container_width=True, height=300)
 
     with col4:
@@ -289,7 +289,7 @@ elif page == "📈 Revenue Analysis":
             Revenue = ('total_revenue','sum'),
             Customers=('customer_id','nunique')
         ).sort_values('Revenue', ascending=False).reset_index()
-        state_summary['Revenue'] = state_summary['Revenue'].apply(lambda x: f'R$ {x:,.0f}')
+        state_summary['Revenue'] = state_summary['Revenue'].apply(lambda x: f'₹{x:,.0f}')
         st.dataframe(state_summary, use_container_width=True, height=300)
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -323,7 +323,7 @@ elif page == "🎯 RFM Segments":
             <div style="font-weight:700;font-size:14px;color:#1e3a5f">{seg}</div>
             <div style="font-size:22px;font-weight:800;color:{color}">{cnt}</div>
             <div style="font-size:11px;color:#64748b">customers</div>
-            <div style="font-size:13px;font-weight:600;margin-top:4px">R$ {rev:,.0f}</div>
+            <div style="font-size:13px;font-weight:600;margin-top:4px">₹{rev:,.0f}</div>
             <div style="font-size:10px;color:#64748b;margin-top:4px;font-style:italic">{action}</div>
         </div>""", unsafe_allow_html=True)
 
@@ -343,27 +343,27 @@ elif page == "🎯 RFM Segments":
         st.markdown('<div class="section-header">💰 Revenue by Segment</div>', unsafe_allow_html=True)
         fig2 = px.bar(seg_rev, x='Segment', y='Revenue',
                       color='Segment', color_discrete_map=SEG_COLORS,
-                      labels={'Revenue':'Total Revenue (R$)'})
+                      labels={'Revenue':'Total Revenue (₹)'})
         fig2.update_layout(height=300, plot_bgcolor='white', paper_bgcolor='white',
                            margin=dict(l=0,r=0,t=10,b=0), showlegend=False,
-                           yaxis_tickprefix='R$', yaxis_tickformat=',.0f')
+                           yaxis_tickprefix='₹', yaxis_tickformat=',.0f')
         st.plotly_chart(fig2, use_container_width=True)
 
     st.markdown('<div class="section-header">🔍 RFM Scatter — Recency vs Monetary</div>', unsafe_allow_html=True)
     fig3 = px.scatter(rfm_df, x='Recency', y='Monetary', color='Segment',
                       size='Frequency', hover_data=['customer_id','Frequency'],
                       color_discrete_map=SEG_COLORS,
-                      labels={'Recency':'Recency (days)','Monetary':'Monetary Value (R$)'})
+                      labels={'Recency':'Recency (days)','Monetary':'Monetary Value (₹)'})
     fig3.update_layout(height=380, plot_bgcolor='white', paper_bgcolor='white',
                        margin=dict(l=0,r=0,t=10,b=0),
-                       yaxis_tickprefix='R$', yaxis_tickformat=',.0f')
+                       yaxis_tickprefix='₹', yaxis_tickformat=',.0f')
     st.plotly_chart(fig3, use_container_width=True)
 
     st.markdown('<div class="section-header">📋 Customer RFM Table</div>', unsafe_allow_html=True)
     seg_filter = st.selectbox("Filter by Segment", ['All'] + list(rfm_df['Segment'].unique()))
     show_df = rfm_df if seg_filter == 'All' else rfm_df[rfm_df['Segment'] == seg_filter]
     show_df2 = show_df[['customer_id','Recency','Frequency','Monetary','RFM_Score','Segment']].sort_values('Monetary', ascending=False)
-    show_df2['Monetary'] = show_df2['Monetary'].apply(lambda x: f'R$ {x:,.2f}')
+    show_df2['Monetary'] = show_df2['Monetary'].apply(lambda x: f'₹{x:,.2f}')
     st.dataframe(show_df2.head(50), use_container_width=True)
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -396,7 +396,7 @@ elif page == "🔮 Sales Forecast":
     for col, label, val, desc in zip(
         [m1,m2,m3],
         ['📊 R² Score','📉 MAE','📐 RMSE'],
-        [f'{r2:.4f}', f'R$ {mae:,.0f}', f'R$ {rmse:,.0f}'],
+        [f'{r2:.4f}', f'₹{mae:,.0f}', f'₹{rmse:,.0f}'],
         ['Variance explained','Avg prediction error','Error (penalizes large)']
     ):
         col.markdown(f"""
@@ -433,25 +433,25 @@ elif page == "🔮 Sales Forecast":
                   annotation_text='Forecast Start', annotation_position='top right')
 
     for d, v in zip(future_dates, future_rev):
-        fig.add_annotation(x=d, y=v, text=f'<b>R${v/1000:.1f}K</b>',
+        fig.add_annotation(x=d, y=v, text=f'<b>₹{v/1000:.1f}K</b>',
                            showarrow=True, arrowhead=2, ax=0, ay=-30,
                            font=dict(color=GREEN, size=11))
 
     fig.update_layout(height=400, plot_bgcolor='white', paper_bgcolor='white',
                       margin=dict(l=0,r=0,t=20,b=0), legend=dict(orientation='h', y=1.1),
-                      yaxis_tickprefix='R$', yaxis_tickformat=',.0f',
-                      xaxis_title='Month', yaxis_title='Revenue (R$)')
+                      yaxis_tickprefix='₹', yaxis_tickformat=',.0f',
+                      xaxis_title='Month', yaxis_title='Revenue (₹)')
     st.plotly_chart(fig, use_container_width=True)
 
     # Forecast table
     st.markdown('<div class="section-header">📋 3-Month Revenue Forecast</div>', unsafe_allow_html=True)
     fc_df = pd.DataFrame({
         'Month':           [d.strftime('%B %Y') for d in future_dates],
-        'Forecasted Revenue': [f'R$ {v:,.0f}' for v in future_rev],
+        'Forecasted Revenue': [f'₹{v:,.0f}' for v in future_rev],
         'Growth vs Last Month': [
-            f'+R$ {future_rev[0]-monthly["total_revenue"].iloc[-1]:,.0f}',
-            f'+R$ {future_rev[1]-future_rev[0]:,.0f}',
-            f'+R$ {future_rev[2]-future_rev[1]:,.0f}',
+            f'+₹{future_rev[0]-monthly["total_revenue"].iloc[-1]:,.0f}',
+            f'+₹{future_rev[1]-future_rev[0]:,.0f}',
+            f'+₹{future_rev[2]-future_rev[1]:,.0f}',
         ],
         'Trend': ['📈 Growing','📈 Growing','📈 Growing']
     })
@@ -514,10 +514,10 @@ elif page == "💳 Payment & Reviews":
         ).reset_index().sort_values('Avg_Payment', ascending=False)
         fig4 = px.bar(pay_avg, x='payment_type', y='Avg_Payment',
                       color_discrete_sequence=[BLUE],
-                      labels={'payment_type':'Payment Type','Avg_Payment':'Avg Revenue (R$)'})
+                      labels={'payment_type':'Payment Type','Avg_Payment':'Avg Revenue (₹)'})
         fig4.update_layout(height=300, plot_bgcolor='white', paper_bgcolor='white',
                            margin=dict(l=0,r=0,t=10,b=0),
-                           yaxis_tickprefix='R$', yaxis_tickformat=',.0f')
+                           yaxis_tickprefix='₹', yaxis_tickformat=',.0f')
         st.plotly_chart(fig4, use_container_width=True)
 
 # ── Footer ────────────────────────────────────────────────────────────────────
